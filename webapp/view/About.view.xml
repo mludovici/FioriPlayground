@@ -1,0 +1,62 @@
+<mvc:View controllerName="mainapp.controller.About" xmlns:c="sap.ui.core" xmlns:mvc="sap.ui.core.mvc" displayBlock="true" xmlns="sap.m" xmlns:l="sap.ui.layout" xmlns:core="sap.ui.core" xmlns:tnt="sap.tnt">
+    <Page id="about" title="{i18n>about}" showNavButton="true" navButtonPress="onNavBack">
+        <content>
+            <Text id="abtext" text="About page" />
+
+            <l:ResponsiveFlowLayout id="respFLAbout">
+                <l:content>
+                    <l:VerticalLayout width="80%" id="VLAbout">
+                        <l:layoutData>
+                            <l:ResponsiveFlowLayoutData id="lri1" minWidth="400" weight="2" />
+                        </l:layoutData>
+
+                        <l:content>
+                            <Label text="ResponsiveFlowLayout width80% minWidt400 weight2" id="label0" />
+                            <Text text="Needs 2x400=800 so break at 1200" width="300px" id="input0" />
+                        </l:content>
+                    </l:VerticalLayout>
+
+                    <l:VerticalLayout width="80%" id="VLAbout2">
+                        <l:layoutData>
+                            <l:ResponsiveFlowLayoutData id="lri2" minWidth="400" weight="1" />
+                        </l:layoutData>
+                        <l:content>
+                            <Image src="https://picsum.photos/400" width="400px" height="400px" id="image0" />
+                        </l:content>
+                    </l:VerticalLayout>
+                </l:content>
+            </l:ResponsiveFlowLayout>
+
+            <Label id="glLabel" text="Grid Layout props span indent linebreak hspacing vspacing" />
+            <l:Grid id="inGrid" width="80%">
+                <l:content>
+                    <Image id="pImage" src="https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1158.jpg">
+                        <layoutData>
+                            <l:GridData span="xl12 L12 M12 S12" />
+                        </layoutData>
+                    </Image>
+                    <Label text="Vorname">
+                        <layoutData>
+                            <l:GridData span="xl6 L6 M12 S12" />
+                        </layoutData>
+                    </Label>
+                    <Text text="{/firstName}">
+                        <layoutData>
+                            <l:GridData span="xl6 L6M12 S12" />
+                        </layoutData>
+                    </Text>
+                    <Label text="Nachname">
+                        <layoutData>
+                            <l:GridData span="xl6 L6 M12 S12" />
+                        </layoutData>
+                    </Label>
+                    <Text text="{/lastName}">
+                        <layoutData>
+                            <l:GridData span="xl6 L6M12 S12" />
+                        </layoutData>
+                    </Text>
+                </l:content>
+            </l:Grid>
+        </content>
+    </Page>
+</mvc:View>

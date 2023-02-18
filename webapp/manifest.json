@@ -95,15 +95,28 @@
         "viewPath": "mainapp.view",
         "controlAggregation": "pages",
         "controlId": "app",
-        "clearControlAggregation": false
+        "clearControlAggregation": false,
+        "bypassed": {
+          "target": "notFoundTarget"
+        }
       },
       "routes": [
         {
           "name": "RouteMain",
-          "pattern": ":?query:",
+          "pattern": "",
           "target": [
             "TargetMain"
           ]
+        },
+        {
+          "name": "RouteAbout",
+          "pattern": "about",
+          "target": "TargetAbout"
+        },
+        {
+          "name": "RouteProfile",
+          "pattern": "profile",
+          "target": "TargetProfile"
         }
       ],
       "targets": {
@@ -113,6 +126,21 @@
           "clearControlAggregation": false,
           "viewId": "Main",
           "viewName": "Main"
+        },
+        "TargetAbout": {
+          "viewName": "About",
+          "viewId": "",
+          "viewLevel": 2,
+          "transition": "flip"
+        },
+        "TargetProfile": {
+          "viewName": "Profile",
+          "viewId": "",
+          "viewLevel": 2
+        },
+        "notFoundTarget": {
+          "viewName": "NotFound",
+          "viewId": ""
         }
       }
     },

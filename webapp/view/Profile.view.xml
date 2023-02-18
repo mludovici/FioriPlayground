@@ -1,0 +1,7 @@
+<mvc:View controllerName="mainapp.controller.Profile" xmlns:c="sap.ui.core" xmlns:mvc="sap.ui.core.mvc" displayBlock="true" xmlns="sap.m" xmlns:l="sap.ui.layout" xmlns:core="sap.ui.core" xmlns:tnt="sap.tnt">
+    <Page id="profile" title="{i18n>profile}" showNavButton="true" navButtonPress="onNavBack">
+        <content>
+            <Text id="pftext" text="Profile page" />
+        </content>
+    </Page>
+</mvc:View>
