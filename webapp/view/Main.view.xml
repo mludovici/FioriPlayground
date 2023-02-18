@@ -1,0 +1,17 @@
+<mvc:View controllerName="mainapp.controller.Main" xmlns:mvc="sap.ui.core.mvc" displayBlock="true" xmlns="sap.m" xmlns:l="sap.ui.layout" xmlns:core="sap.ui.core" xmlns:tnt="sap.tnt">
+    <Page id="page" title="{i18n>title}">
+        <content>
+            <l:HorizontalLayout id="hzLayout">
+                <l:content justifyContent="SpaceBetween">
+                    <HBox justifyContent="SpaceBetween">
+                        <Button id="iconButton" class="sapUiTinyMarginBeginEnd" icon="sap-icon://home" text="Home" />
+                        <HBox justifyContent="End">
+                            <Text text="About" />
+                            <Text text="Profile" />
+                        </HBox>
+                    </HBox>
+                </l:content>
+            </l:HorizontalLayout>
+        </content>
+    </Page>
+</mvc:View>

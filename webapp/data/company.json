@@ -1,0 +1,4658 @@
+{
+	"companies": [
+		{
+			"id": 0,
+			"uuid": "0eefb883-d69c-4423-8a1c-dc086135d719",
+			"companyName": "Weidlich-Weight",
+			"catchPhrase": "Front-line solution-oriented firmware",
+			"sector": "Agriculture",
+			"buzz": "whiteboard revolutionary content",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 1,
+			"uuid": "533e36ab-37d9-425b-bb0a-8ccbb9bb9a17",
+			"companyName": "Margis OHG",
+			"catchPhrase": "Advanced intangible capacity",
+			"sector": "Agriculture",
+			"buzz": "incentivize next-generation portals",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 2,
+			"uuid": "e8ce5349-c294-4a08-a6f7-4aa65409451c",
+			"companyName": "Tischmann, Orth und Hirschberg",
+			"catchPhrase": "Reduced fresh-thinking moratorium",
+			"sector": "Craft",
+			"buzz": "expedite out-of-the-box ROI",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 3,
+			"uuid": "c52e337b-699d-4c3c-a9ec-d456c8579af7",
+			"companyName": "Reichling, Lewin und Horna",
+			"catchPhrase": "Upgradable value-added functionalities",
+			"sector": "IT",
+			"buzz": "monetize vertical infomediaries",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 4,
+			"uuid": "bbcc4791-1f14-4de5-a9b8-48f117018890",
+			"companyName": "Cleve, Sollner und Wyludda",
+			"catchPhrase": "Up-sized logistical encryption",
+			"sector": "IT",
+			"buzz": "engineer one-to-one mindshare",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 5,
+			"uuid": "9497c7cb-3325-49ec-99dc-3cce915cf339",
+			"companyName": "Kral, Hessler und Giesche",
+			"catchPhrase": "De-engineered intangible moderator",
+			"sector": "Tourism",
+			"buzz": "aggregate intuitive portals",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 6,
+			"uuid": "5af8d6bd-aec6-4286-99ea-8d457752ef97",
+			"companyName": "Briesenick OHG",
+			"catchPhrase": "Optional empowering forecast",
+			"sector": "Tourism",
+			"buzz": "revolutionize revolutionary users",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 7,
+			"uuid": "1d3f620f-f94e-4444-a705-8f638ee670e7",
+			"companyName": "Herberger, Bussmann und Eckhardt",
+			"catchPhrase": "Centralized encompassing attitude",
+			"sector": "Craft",
+			"buzz": "transition back-end e-services",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 8,
+			"uuid": "7947ff4e-2a57-4859-a1b3-2de668f33255",
+			"companyName": "Schulz-Ahrens",
+			"catchPhrase": "Reverse-engineered clear-thinking Graphic Interface",
+			"sector": "Retail",
+			"buzz": "synthesize world-class relationships",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 9,
+			"uuid": "0f7b14fd-1f27-4c2c-9844-1de23a2bd5f3",
+			"companyName": "Beele-Kopf",
+			"catchPhrase": "Monitored human-resource concept",
+			"sector": "Construction",
+			"buzz": "optimize web-enabled metrics",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 10,
+			"uuid": "827e2a83-e511-4118-9aa3-177827703e8d",
+			"companyName": "Malek, Fenske und Wolff",
+			"catchPhrase": "Total discrete definition",
+			"sector": "Retail",
+			"buzz": "deploy intuitive channels",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 11,
+			"uuid": "d97630dc-5489-4e19-aeb3-b2d75c019430",
+			"companyName": "Schuldt-Sprenger",
+			"catchPhrase": "Object-based transitional open system",
+			"sector": "Agriculture",
+			"buzz": "e-enable world-class niches",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 12,
+			"uuid": "d3254ade-e4de-4649-b567-b64d6e8376db",
+			"companyName": "Dienel UG",
+			"catchPhrase": "Reactive bi-directional hardware",
+			"sector": "Retail",
+			"buzz": "deploy impactful initiatives",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 13,
+			"uuid": "9d99e37c-fc5b-4bee-8dd9-dab43d9a1241",
+			"companyName": "Zender, Lammert und Büscher",
+			"catchPhrase": "Organized zero administration Graphical User Interface",
+			"sector": "IT",
+			"buzz": "mesh extensible eyeballs",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 14,
+			"uuid": "1e97f02a-9224-44c2-8fa6-7a8ff6ac3ac0",
+			"companyName": "Welz Gruppe",
+			"catchPhrase": "Function-based background concept",
+			"sector": "Agriculture",
+			"buzz": "reinvent real-time e-services",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 15,
+			"uuid": "75fe0cd6-ed02-4a11-9379-d2afc8ae2e9d",
+			"companyName": "Hohn, Schroder und Dreissigacker",
+			"catchPhrase": "Distributed asynchronous process improvement",
+			"sector": "Craft",
+			"buzz": "architect transparent models",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 16,
+			"uuid": "8c814b21-9915-483d-bf2a-c1a49b43e928",
+			"companyName": "Moser KG",
+			"catchPhrase": "Profound uniform capability",
+			"sector": "Finance",
+			"buzz": "integrate robust platforms",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 17,
+			"uuid": "5b61cf25-8c8f-49bd-95d7-8ed80ed4ced6",
+			"companyName": "Schnürer-Horak",
+			"catchPhrase": "Programmable fault-tolerant success",
+			"sector": "Craft",
+			"buzz": "harness integrated synergies",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 18,
+			"uuid": "447018a0-3f66-4b5e-af1e-601a5b629b2f",
+			"companyName": "Horna, Gerbennow und Koenig",
+			"catchPhrase": "Open-architected mobile attitude",
+			"sector": "Craft",
+			"buzz": "iterate visionary paradigms",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 19,
+			"uuid": "78655ea0-4354-4554-a879-b3ddb90ce936",
+			"companyName": "Willwacher UG",
+			"catchPhrase": "Enterprise-wide 5th generation complexity",
+			"sector": "Retail",
+			"buzz": "target rich channels",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 20,
+			"uuid": "c2e5ed1e-d1a3-47c5-8edc-300170db38ce",
+			"companyName": "Marschek OHG",
+			"catchPhrase": "Grass-roots zero tolerance contingency",
+			"sector": "IT",
+			"buzz": "synthesize extensible networks",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 21,
+			"uuid": "ef155fe9-6d80-4de8-888a-e8c1102670c0",
+			"companyName": "Kröckert, Schieskow und Küter",
+			"catchPhrase": "Synergized attitude-oriented superstructure",
+			"sector": "IT",
+			"buzz": "incentivize end-to-end functionalities",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 22,
+			"uuid": "c1c48c91-c783-41c8-be56-9a5b1e91b6a2",
+			"companyName": "Münch, Pöche und Schacht",
+			"catchPhrase": "Grass-roots system-worthy time-frame",
+			"sector": "Finance",
+			"buzz": "redefine impactful ROI",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 23,
+			"uuid": "167e374d-d5dc-4971-957e-9bde3af8673d",
+			"companyName": "Kohlmann OHG",
+			"catchPhrase": "Reverse-engineered regional functionalities",
+			"sector": "Tourism",
+			"buzz": "mesh 24/7 paradigms",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 24,
+			"uuid": "b029c500-2813-4f9c-bbff-940a44e757d3",
+			"companyName": "Bachmann AG",
+			"catchPhrase": "Implemented mobile core",
+			"sector": "IT",
+			"buzz": "reinvent plug-and-play synergies",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 25,
+			"uuid": "661ea5ca-2917-4576-b48e-bf7fe0a368f6",
+			"companyName": "Wenk-Diekmann",
+			"catchPhrase": "Organized empowering open system",
+			"sector": "Retail",
+			"buzz": "embrace transparent e-tailers",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 26,
+			"uuid": "568ca92d-9711-44fb-a2ab-f1eb0d04b98d",
+			"companyName": "Hertel-Riepl",
+			"catchPhrase": "Quality-focused bi-directional contingency",
+			"sector": "Finance",
+			"buzz": "optimize virtual supply-chains",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 27,
+			"uuid": "3392b1f1-3625-40b2-b98b-0eb4f3c45563",
+			"companyName": "Katzinski GmbH",
+			"catchPhrase": "Cross-platform dynamic data-warehouse",
+			"sector": "Finance",
+			"buzz": "seize distributed portals",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 28,
+			"uuid": "3e822702-7835-43a7-8490-da1ab8188678",
+			"companyName": "Platzer, Hübner und Schäffel",
+			"catchPhrase": "Up-sized interactive framework",
+			"sector": "IT",
+			"buzz": "visualize one-to-one networks",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 29,
+			"uuid": "0f4929d9-7839-41f7-8c7b-6d48e21954ee",
+			"companyName": "Figl OHG",
+			"catchPhrase": "Team-oriented upward-trending time-frame",
+			"sector": "Finance",
+			"buzz": "orchestrate cutting-edge vortals",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 30,
+			"uuid": "87527012-2994-4929-9778-de92ee24319c",
+			"companyName": "Pohland, Schüler und Bork",
+			"catchPhrase": "Adaptive logistical concept",
+			"sector": "Construction",
+			"buzz": "matrix out-of-the-box web-readiness",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 31,
+			"uuid": "ed43ff6a-508b-469b-81e6-77ddf18bd5ff",
+			"companyName": "Sihler OHG",
+			"catchPhrase": "Integrated interactive orchestration",
+			"sector": "Construction",
+			"buzz": "morph transparent infrastructures",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 32,
+			"uuid": "dd3952e6-87d3-417f-9f36-79b90e0a355e",
+			"companyName": "Sammert AG",
+			"catchPhrase": "Inverse actuating synergy",
+			"sector": "Construction",
+			"buzz": "whiteboard scalable channels",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 33,
+			"uuid": "7f73b9c2-41be-4f47-9d79-8a22d052bfeb",
+			"companyName": "Klauder, Anding und Dauth",
+			"catchPhrase": "User-centric attitude-oriented migration",
+			"sector": "Tourism",
+			"buzz": "aggregate distributed ROI",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 34,
+			"uuid": "a58edee5-7d9f-4e42-a54c-ada07b48ae3b",
+			"companyName": "König, Schnürer und Lufft",
+			"catchPhrase": "Inverse attitude-oriented knowledge base",
+			"sector": "Retail",
+			"buzz": "revolutionize vertical systems",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 35,
+			"uuid": "8d0b3dc2-586b-46c9-8bf6-061b1c525925",
+			"companyName": "Marxen Gruppe",
+			"catchPhrase": "Open-architected fault-tolerant projection",
+			"sector": "Construction",
+			"buzz": "benchmark leading-edge e-business",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 36,
+			"uuid": "bfe2cd94-e3cd-4dd6-b465-23fec19be93e",
+			"companyName": "Hermecke-Streese",
+			"catchPhrase": "Face to face maximized approach",
+			"sector": "Finance",
+			"buzz": "iterate vertical users",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 37,
+			"uuid": "f7310c9d-7770-445a-bd35-a847ea8c1f64",
+			"companyName": "Bühler-Byrd",
+			"catchPhrase": "Robust non-volatile matrices",
+			"sector": "Retail",
+			"buzz": "visualize best-of-breed content",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 38,
+			"uuid": "7257be24-0c2e-471c-8ee3-8aac18be8253",
+			"companyName": "Eich UG",
+			"catchPhrase": "Configurable next generation hardware",
+			"sector": "Retail",
+			"buzz": "streamline sticky users",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 39,
+			"uuid": "bea5db8c-8160-44a8-bff3-ed741733d0dc",
+			"companyName": "Liebich, Vogel und Wujak",
+			"catchPhrase": "Versatile clear-thinking encryption",
+			"sector": "Retail",
+			"buzz": "aggregate sticky blockchains",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 40,
+			"uuid": "0b36fa6a-75f8-4e29-8a50-8be5a0b7eab0",
+			"companyName": "Oeser, Mikitenko und Schlitzer",
+			"catchPhrase": "Fundamental contextually-based monitoring",
+			"sector": "Finance",
+			"buzz": "benchmark web-enabled metrics",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 41,
+			"uuid": "c9cfd476-829a-4090-b9cb-c5757a56163c",
+			"companyName": "Schlachter, Wöschler und Caspers",
+			"catchPhrase": "Decentralized leading edge concept",
+			"sector": "Tourism",
+			"buzz": "synthesize best-of-breed schemas",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 42,
+			"uuid": "570e791e-8357-4381-bed8-2e596d2633f3",
+			"companyName": "Polizzi-Kúhnert",
+			"catchPhrase": "De-engineered even-keeled instruction set",
+			"sector": "Retail",
+			"buzz": "reintermediate seamless e-markets",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 43,
+			"uuid": "046f0545-b05d-471b-a406-90072bb1e797",
+			"companyName": "Huhn-Hasler",
+			"catchPhrase": "Face to face 6th generation throughput",
+			"sector": "Retail",
+			"buzz": "engineer interactive metrics",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 44,
+			"uuid": "0667ded3-1fa2-43d4-8a32-652330aefd98",
+			"companyName": "Dilla Gruppe",
+			"catchPhrase": "Re-contextualized stable contingency",
+			"sector": "IT",
+			"buzz": "expedite granular e-business",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 45,
+			"uuid": "1c45e719-d3aa-4b93-9851-0569d4b6b8ec",
+			"companyName": "Feuerbach, Kühnke und Teichmann",
+			"catchPhrase": "Re-engineered impactful superstructure",
+			"sector": "Construction",
+			"buzz": "evolve mission-critical applications",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 46,
+			"uuid": "5ef156a2-cafa-4e03-bab1-a7097b79705e",
+			"companyName": "Jagusch, Geissler und Albert",
+			"catchPhrase": "Public-key executive archive",
+			"sector": "Craft",
+			"buzz": "enhance cross-platform experiences",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 47,
+			"uuid": "f0115544-a396-44fb-bfa2-a5d569a61ae4",
+			"companyName": "Möcks-Hetzler",
+			"catchPhrase": "Progressive high-level methodology",
+			"sector": "Retail",
+			"buzz": "optimize intuitive ROI",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 48,
+			"uuid": "072cd701-7d9e-4004-9015-668071cfb6f2",
+			"companyName": "Milde KG",
+			"catchPhrase": "Switchable next generation orchestration",
+			"sector": "Craft",
+			"buzz": "redefine killer channels",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 49,
+			"uuid": "d16b00fc-205c-40a4-b712-070e2c390242",
+			"companyName": "Gatzka-Ryzih",
+			"catchPhrase": "User-friendly multimedia hub",
+			"sector": "IT",
+			"buzz": "redefine web-enabled platforms",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 50,
+			"uuid": "d666149f-da03-4ed7-9cc8-7f1915a51da1",
+			"companyName": "Huckestein KG",
+			"catchPhrase": "Expanded client-driven conglomeration",
+			"sector": "Retail",
+			"buzz": "integrate out-of-the-box ROI",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 51,
+			"uuid": "b83e392d-1628-4cce-b2a2-94f677c1e8f6",
+			"companyName": "Piesker GmbH",
+			"catchPhrase": "Open-source impactful superstructure",
+			"sector": "Construction",
+			"buzz": "deploy B2C paradigms",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 52,
+			"uuid": "49c90beb-9381-4725-b461-c17c381e0bca",
+			"companyName": "Ryzih-Mockenhaupt",
+			"catchPhrase": "Decentralized clear-thinking migration",
+			"sector": "IT",
+			"buzz": "repurpose magnetic communities",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 53,
+			"uuid": "f6149019-7b06-4b77-867e-bdacaeff49a4",
+			"companyName": "Leiteritz Gruppe",
+			"catchPhrase": "Digitized actuating solution",
+			"sector": "Finance",
+			"buzz": "brand plug-and-play methodologies",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 54,
+			"uuid": "56dbf03c-2685-492e-b6ab-ce0704d0b190",
+			"companyName": "Nieklauson, Scholz und Uhlemann",
+			"catchPhrase": "Multi-layered coherent time-frame",
+			"sector": "Agriculture",
+			"buzz": "incubate next-generation schemas",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 55,
+			"uuid": "6fc269a3-6072-4201-b413-645311d6d07a",
+			"companyName": "Döring GmbH",
+			"catchPhrase": "Fundamental heuristic access",
+			"sector": "Construction",
+			"buzz": "enable magnetic paradigms",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 56,
+			"uuid": "d16035e4-01d8-44ca-9dfd-457781f0b0b8",
+			"companyName": "Schott OHG",
+			"catchPhrase": "Digitized bi-directional toolset",
+			"sector": "Tourism",
+			"buzz": "implement compelling initiatives",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 57,
+			"uuid": "5c9369e5-b89b-44dd-bdab-cd833bc598aa",
+			"companyName": "Maisch KG",
+			"catchPhrase": "Proactive disintermediate workforce",
+			"sector": "Craft",
+			"buzz": "empower synergistic architectures",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 58,
+			"uuid": "572afb41-a5a0-4a19-a335-471968a2b1e0",
+			"companyName": "Hildebrand, Tegethof und Schröder",
+			"catchPhrase": "Public-key composite pricing structure",
+			"sector": "IT",
+			"buzz": "engineer magnetic infrastructures",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 59,
+			"uuid": "f0efd1c6-e11f-4399-a8be-ddb6340d1f63",
+			"companyName": "Jakubczyk-Kleininger",
+			"catchPhrase": "Extended bi-directional internet solution",
+			"sector": "IT",
+			"buzz": "monetize plug-and-play markets",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 60,
+			"uuid": "e15f2d97-fbb3-4cf3-8e71-347bc4b68c27",
+			"companyName": "Geisler GmbH & Co. KG",
+			"catchPhrase": "Up-sized interactive process improvement",
+			"sector": "IT",
+			"buzz": "architect dynamic vortals",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 61,
+			"uuid": "8473d227-a163-45d3-848b-6b32b90afbe5",
+			"companyName": "Häfner KG",
+			"catchPhrase": "Cloned holistic attitude",
+			"sector": "Tourism",
+			"buzz": "benchmark world-class metrics",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 62,
+			"uuid": "c87faebf-795f-4622-bac3-9e91753da568",
+			"companyName": "Sürth, Klauder und Brinkmann",
+			"catchPhrase": "Enhanced asymmetric circuit",
+			"sector": "Craft",
+			"buzz": "reinvent extensible experiences",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 63,
+			"uuid": "ccb8cf01-3e3f-411b-9f88-fafdcacac091",
+			"companyName": "Werle-Schwennen",
+			"catchPhrase": "Extended secondary portal",
+			"sector": "IT",
+			"buzz": "extend scalable initiatives",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 64,
+			"uuid": "2a35c0e3-0b38-4578-af1e-d1c6f2e20938",
+			"companyName": "Ringel Gruppe",
+			"catchPhrase": "Up-sized radical firmware",
+			"sector": "Agriculture",
+			"buzz": "disintermediate user-centric schemas",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 65,
+			"uuid": "e94864f8-0970-4f5a-b6c9-d8cf7af2c4fa",
+			"companyName": "Hingst-Pietsch",
+			"catchPhrase": "Synergistic analyzing data-warehouse",
+			"sector": "Construction",
+			"buzz": "morph one-to-one supply-chains",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 66,
+			"uuid": "ad687e18-d93e-4778-b42e-ec76c9e93653",
+			"companyName": "Emmelmann-Koch",
+			"catchPhrase": "Reduced context-sensitive success",
+			"sector": "Retail",
+			"buzz": "expedite transparent communities",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 67,
+			"uuid": "e0863264-06c0-4d70-8edd-ffeac7bddff1",
+			"companyName": "Möllinger-Tächl",
+			"catchPhrase": "Re-engineered upward-trending capability",
+			"sector": "Retail",
+			"buzz": "unleash scalable e-business",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 68,
+			"uuid": "9207398a-2247-40ce-8d3e-66236144b8c5",
+			"companyName": "Hingsen OHG",
+			"catchPhrase": "Profit-focused bi-directional leverage",
+			"sector": "IT",
+			"buzz": "utilize customized ROI",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 69,
+			"uuid": "bc4ee450-8b51-4ded-93b5-303c8176b368",
+			"companyName": "Krol-Baseda",
+			"catchPhrase": "Compatible stable framework",
+			"sector": "Tourism",
+			"buzz": "whiteboard next-generation web-readiness",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 70,
+			"uuid": "5e066140-d313-49a0-b64f-3c2a2d463234",
+			"companyName": "Heinrich UG",
+			"catchPhrase": "Decentralized optimizing task-force",
+			"sector": "Craft",
+			"buzz": "deploy best-of-breed users",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 71,
+			"uuid": "a8255a2c-9099-42c9-9f92-7573773c3ea7",
+			"companyName": "Kemper, Kaul und Schmitz",
+			"catchPhrase": "Extended analyzing time-frame",
+			"sector": "Retail",
+			"buzz": "synergize value-added deliverables",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 72,
+			"uuid": "94faa358-e905-4d2d-b039-c493619790cc",
+			"companyName": "Sihler GmbH",
+			"catchPhrase": "Adaptive radical groupware",
+			"sector": "Finance",
+			"buzz": "utilize virtual metrics",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 73,
+			"uuid": "c43a7808-7a4c-4a23-b440-1c89b2e7ad94",
+			"companyName": "Bultmann-Bauer",
+			"catchPhrase": "Extended solution-oriented knowledge user",
+			"sector": "Craft",
+			"buzz": "strategize holistic deliverables",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 74,
+			"uuid": "e6aab780-8339-43cc-bdef-adbd52328b6f",
+			"companyName": "Krug, Diedrich und Knoll",
+			"catchPhrase": "Multi-lateral solution-oriented hardware",
+			"sector": "Agriculture",
+			"buzz": "innovate ubiquitous systems",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 75,
+			"uuid": "639fcd9e-5028-4ca2-9a37-e8878fb34452",
+			"companyName": "Sagafe, Battke und Ritschel",
+			"catchPhrase": "Self-enabling holistic solution",
+			"sector": "Craft",
+			"buzz": "morph impactful e-markets",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 76,
+			"uuid": "58d478ae-e31c-44a6-bb91-0b005ac47026",
+			"companyName": "Holdt, Kedzierski und Matthes",
+			"catchPhrase": "Synergized bifurcated help-desk",
+			"sector": "Construction",
+			"buzz": "brand bleeding-edge web services",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 77,
+			"uuid": "3b5fc8e5-07c8-430f-b98f-4ae324fcc9c4",
+			"companyName": "Lenk GmbH",
+			"catchPhrase": "Organized coherent structure",
+			"sector": "Construction",
+			"buzz": "extend real-time synergies",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 78,
+			"uuid": "c1b4633b-9aa4-49af-96c4-0daad78067e0",
+			"companyName": "Kröckert-Rittweg",
+			"catchPhrase": "Realigned non-volatile core",
+			"sector": "Finance",
+			"buzz": "engineer back-end portals",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 79,
+			"uuid": "5ad44520-a688-4645-81d7-3136e5988837",
+			"companyName": "Gutowicz Gruppe",
+			"catchPhrase": "Right-sized stable database",
+			"sector": "Agriculture",
+			"buzz": "monetize cross-platform communities",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 80,
+			"uuid": "63486ad2-87ed-4320-87e6-f6b30380612f",
+			"companyName": "Schielke, Travan und Engel",
+			"catchPhrase": "Persevering real-time moderator",
+			"sector": "Agriculture",
+			"buzz": "maximize interactive e-business",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 81,
+			"uuid": "4a674803-33e8-4307-abbc-49adf169a051",
+			"companyName": "Wissing-Gehring",
+			"catchPhrase": "Operative holistic circuit",
+			"sector": "Agriculture",
+			"buzz": "reintermediate killer channels",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 82,
+			"uuid": "53c190ec-2fed-4e6e-9a49-1b55688a5287",
+			"companyName": "Reimann-Tsamonikian",
+			"catchPhrase": "Synergistic system-worthy portal",
+			"sector": "IT",
+			"buzz": "integrate sticky functionalities",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 83,
+			"uuid": "404e5ad0-825c-4e49-9466-7a5d0a98bccd",
+			"companyName": "Gabius-Braun",
+			"catchPhrase": "Versatile empowering application",
+			"sector": "Tourism",
+			"buzz": "benchmark ubiquitous niches",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 84,
+			"uuid": "d0f394ce-d180-4ea7-b414-a0c9b1ca3d3e",
+			"companyName": "Kappler AG",
+			"catchPhrase": "Programmable hybrid frame",
+			"sector": "Craft",
+			"buzz": "cultivate real-time channels",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 85,
+			"uuid": "b641818f-c655-44ac-b6e3-73b865ee85d4",
+			"companyName": "Grube, Lakomy und Riethmüller",
+			"catchPhrase": "Virtual attitude-oriented monitoring",
+			"sector": "IT",
+			"buzz": "redefine sexy eyeballs",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 86,
+			"uuid": "a0452fbf-6ca2-4a3a-bad9-1eddb5d867a7",
+			"companyName": "Gruning-Kraft",
+			"catchPhrase": "Seamless contextually-based secured line",
+			"sector": "Finance",
+			"buzz": "harness real-time e-services",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 87,
+			"uuid": "ad9d2862-bbae-43c3-b99b-ae929e54a81d",
+			"companyName": "Gürbig, Zekl und Gerhardt",
+			"catchPhrase": "Re-contextualized high-level process improvement",
+			"sector": "IT",
+			"buzz": "reinvent world-class action-items",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 88,
+			"uuid": "2c52243d-62c5-48ec-b6f4-009121ddb3ad",
+			"companyName": "Spitzmüller KG",
+			"catchPhrase": "Decentralized actuating installation",
+			"sector": "Finance",
+			"buzz": "syndicate 24/365 systems",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 89,
+			"uuid": "91930f22-7e99-4615-b12d-679e593eeda1",
+			"companyName": "Siebel UG",
+			"catchPhrase": "Multi-layered multimedia flexibility",
+			"sector": "Tourism",
+			"buzz": "optimize global blockchains",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 90,
+			"uuid": "74c1e3c9-26fc-4f3e-98f8-41dd629407fd",
+			"companyName": "Grosskopf, Bussmann und Hoppe",
+			"catchPhrase": "Mandatory empowering synergy",
+			"sector": "Finance",
+			"buzz": "productize collaborative portals",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 91,
+			"uuid": "742e1122-6794-4b7a-9193-809bb312592b",
+			"companyName": "Friedek Gruppe",
+			"catchPhrase": "Mandatory client-server leverage",
+			"sector": "IT",
+			"buzz": "enhance 24/7 applications",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 92,
+			"uuid": "6938b5ed-ef70-4f14-bb79-a792a5678c33",
+			"companyName": "Mächtig, Kastner und Krüger",
+			"catchPhrase": "Expanded human-resource hardware",
+			"sector": "Finance",
+			"buzz": "repurpose frictionless applications",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 93,
+			"uuid": "76fa1cb4-1579-46c9-89c2-fd5add158650",
+			"companyName": "Krueger, Konig und Lobinger",
+			"catchPhrase": "Horizontal non-volatile focus group",
+			"sector": "Retail",
+			"buzz": "enhance 24/7 e-services",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 94,
+			"uuid": "66974be0-41d9-4a94-9969-c2995a4c725e",
+			"companyName": "Jungbluth GmbH & Co. KG",
+			"catchPhrase": "Automated maximized encryption",
+			"sector": "Craft",
+			"buzz": "innovate seamless platforms",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 95,
+			"uuid": "3fd85cae-00e8-4cd9-83e2-8f1f92ff034f",
+			"companyName": "Kühnel-Dauth",
+			"catchPhrase": "Profit-focused even-keeled protocol",
+			"sector": "Retail",
+			"buzz": "syndicate impactful content",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 96,
+			"uuid": "88d61db4-10f9-4bfa-8003-e21c2eae0b15",
+			"companyName": "Mensah, Grosskopf und Jacob",
+			"catchPhrase": "Sharable contextually-based array",
+			"sector": "Craft",
+			"buzz": "redefine real-time web services",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 97,
+			"uuid": "9249be38-04ce-4f58-87ab-8d1c163c52ae",
+			"companyName": "De, Rentz und Swillims",
+			"catchPhrase": "Realigned neutral interface",
+			"sector": "Finance",
+			"buzz": "cultivate next-generation web-readiness",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 98,
+			"uuid": "f5cd1f34-0217-4356-820f-5db111128f5c",
+			"companyName": "Cronjäger-Kesselring",
+			"catchPhrase": "User-centric 5th generation paradigm",
+			"sector": "Finance",
+			"buzz": "reintermediate revolutionary channels",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 99,
+			"uuid": "b4671948-a9f0-42ba-93ce-efc0fefe8ec5",
+			"companyName": "Feld-Unterpaintner",
+			"catchPhrase": "Cross-platform object-oriented process improvement",
+			"sector": "Retail",
+			"buzz": "incentivize front-end e-markets",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 100,
+			"uuid": "03d76cd4-d9a7-4854-8ae1-f51ab261d4fd",
+			"companyName": "Hackelbusch-Vater",
+			"catchPhrase": "Balanced static Graphic Interface",
+			"sector": "Retail",
+			"buzz": "exploit open-source applications",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 101,
+			"uuid": "b195b5b4-0a52-4d26-a6bf-c8e9c315fb8a",
+			"companyName": "Güldemeister AG",
+			"catchPhrase": "Ergonomic 24/7 hierarchy",
+			"sector": "Construction",
+			"buzz": "mesh compelling portals",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 102,
+			"uuid": "7a5b1041-9c52-460c-8d81-a720cd64f871",
+			"companyName": "Winkelmann, Danneberg und Esenwein",
+			"catchPhrase": "Up-sized demand-driven ability",
+			"sector": "Retail",
+			"buzz": "productize strategic web services",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 103,
+			"uuid": "6d36828a-c60d-4c54-93f7-51f9bb55c406",
+			"companyName": "Brenner KG",
+			"catchPhrase": "Realigned fresh-thinking pricing structure",
+			"sector": "Craft",
+			"buzz": "visualize scalable eyeballs",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 104,
+			"uuid": "342121a9-fc74-486b-8e4f-e17340cb66f4",
+			"companyName": "Forkel OHG",
+			"catchPhrase": "Secured reciprocal database",
+			"sector": "Tourism",
+			"buzz": "cultivate B2C users",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 105,
+			"uuid": "d957c389-24d2-405f-9e98-5e44a48dbc73",
+			"companyName": "Ackermann, Mockenhaupt und Raabe",
+			"catchPhrase": "User-centric multi-state collaboration",
+			"sector": "Finance",
+			"buzz": "leverage robust applications",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 106,
+			"uuid": "fbb43412-c6d8-41a1-b452-b5813aa57bc3",
+			"companyName": "Grams UG",
+			"catchPhrase": "Inverse client-server toolset",
+			"sector": "Construction",
+			"buzz": "integrate sexy solutions",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 107,
+			"uuid": "2427f177-f575-45d9-b4ee-b5613ee7f22c",
+			"companyName": "Baarck-Adams",
+			"catchPhrase": "Total holistic toolset",
+			"sector": "Finance",
+			"buzz": "cultivate plug-and-play content",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 108,
+			"uuid": "b4eba7f8-80e2-44bc-916a-2161d47ccf3f",
+			"companyName": "Thriene-Ringel",
+			"catchPhrase": "Intuitive didactic extranet",
+			"sector": "Agriculture",
+			"buzz": "empower visionary portals",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 109,
+			"uuid": "98fef409-f18a-4ad1-bea0-8757b89c5f63",
+			"companyName": "Proske Gruppe",
+			"catchPhrase": "Organized foreground approach",
+			"sector": "IT",
+			"buzz": "transition sticky interfaces",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 110,
+			"uuid": "339e11df-a23a-426b-b7f4-770a530b5d4e",
+			"companyName": "Hecht-Weiler",
+			"catchPhrase": "Synergized value-added array",
+			"sector": "Retail",
+			"buzz": "brand e-business ROI",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 111,
+			"uuid": "c0453a7a-0277-4865-a1ac-eeae602e7ae2",
+			"companyName": "Stolle KG",
+			"catchPhrase": "Configurable logistical protocol",
+			"sector": "Agriculture",
+			"buzz": "streamline web-enabled markets",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 112,
+			"uuid": "7765da99-e00a-4539-8332-d637f8c7aea6",
+			"companyName": "Schütze, Vater und Dörre",
+			"catchPhrase": "Vision-oriented tangible challenge",
+			"sector": "Construction",
+			"buzz": "disintermediate best-of-breed architectures",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 113,
+			"uuid": "98304f8c-6ef0-4aa6-a925-b346bfc2c9af",
+			"companyName": "Lipske-Krohn",
+			"catchPhrase": "Operative methodical toolset",
+			"sector": "Finance",
+			"buzz": "deploy frictionless convergence",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 114,
+			"uuid": "9074e67f-83eb-47b1-825c-f354407eaa08",
+			"companyName": "Tiedtke, Gromisch und Schmitz",
+			"catchPhrase": "Enhanced tangible function",
+			"sector": "Construction",
+			"buzz": "exploit plug-and-play architectures",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 115,
+			"uuid": "7228a3fe-e01a-4a2c-b96b-80687e946ddb",
+			"companyName": "Kolb-Klapper",
+			"catchPhrase": "Virtual background middleware",
+			"sector": "Finance",
+			"buzz": "deliver customized ROI",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 116,
+			"uuid": "197425e8-1e2e-4de7-9a94-cf111f13558b",
+			"companyName": "Ochs, Klimczak und Bremser",
+			"catchPhrase": "Networked 24/7 model",
+			"sector": "Craft",
+			"buzz": "maximize vertical interfaces",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 117,
+			"uuid": "ca824510-afc8-44b8-885c-28764939f0a4",
+			"companyName": "Kron GmbH",
+			"catchPhrase": "Seamless foreground initiative",
+			"sector": "Retail",
+			"buzz": "incentivize end-to-end action-items",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 118,
+			"uuid": "e9536e89-09d9-451f-8c84-f38d0214bc35",
+			"companyName": "Vahlensieck-Kempe",
+			"catchPhrase": "Team-oriented 5th generation success",
+			"sector": "Craft",
+			"buzz": "unleash web-enabled eyeballs",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 119,
+			"uuid": "54748aa0-140b-4b3b-a52c-90e322910068",
+			"companyName": "Schwarzmeier UG",
+			"catchPhrase": "Persevering bandwidth-monitored functionalities",
+			"sector": "Tourism",
+			"buzz": "innovate synergistic e-markets",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 120,
+			"uuid": "2e5cf05d-c734-4225-94a9-49dc0646aa19",
+			"companyName": "Schult UG",
+			"catchPhrase": "Managed mission-critical contingency",
+			"sector": "Tourism",
+			"buzz": "grow killer portals",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 121,
+			"uuid": "8a5c6522-f9cf-4667-944e-5232ddfab61e",
+			"companyName": "Poser, Krol und Rosenthal",
+			"catchPhrase": "Proactive upward-trending secured line",
+			"sector": "Construction",
+			"buzz": "transition bricks-and-clicks niches",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 122,
+			"uuid": "f034a322-54cd-48fb-9ed1-b7baa86c68bb",
+			"companyName": "Tischler OHG",
+			"catchPhrase": "Multi-channelled transitional moratorium",
+			"sector": "IT",
+			"buzz": "enable dynamic e-services",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 123,
+			"uuid": "76226c7b-5a1a-4c2c-a1f6-74fce083acac",
+			"companyName": "Sommer GmbH & Co. KG",
+			"catchPhrase": "Optional zero defect superstructure",
+			"sector": "Retail",
+			"buzz": "redefine mission-critical initiatives",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 124,
+			"uuid": "1d01243d-6bd6-40e7-9e14-bc0e4932959a",
+			"companyName": "Hinrichs, Prah und Boyde",
+			"catchPhrase": "Cross-platform even-keeled leverage",
+			"sector": "IT",
+			"buzz": "redefine 24/7 bandwidth",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 125,
+			"uuid": "32587292-b719-48ca-83ed-60e67d941b27",
+			"companyName": "Rodowski-Jander",
+			"catchPhrase": "Multi-tiered 4th generation emulation",
+			"sector": "Retail",
+			"buzz": "facilitate revolutionary technologies",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 126,
+			"uuid": "697ccb26-a49b-4729-9671-52ae10cada3d",
+			"companyName": "Volkmann GmbH",
+			"catchPhrase": "Team-oriented interactive circuit",
+			"sector": "Retail",
+			"buzz": "monetize back-end communities",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 127,
+			"uuid": "3103a8e0-3ddf-430b-9b1a-9458519acb97",
+			"companyName": "Malucha, Doskoczynski und Jambor",
+			"catchPhrase": "Synchronised multi-state paradigm",
+			"sector": "Finance",
+			"buzz": "morph scalable functionalities",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 128,
+			"uuid": "6da7600d-9dd1-4daa-95ed-3ac4328a6597",
+			"companyName": "Schäffer, Eleyth und Benzing",
+			"catchPhrase": "Open-architected impactful function",
+			"sector": "Agriculture",
+			"buzz": "repurpose world-class infrastructures",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 129,
+			"uuid": "166b671c-809f-4c3f-8370-753a10611cc2",
+			"companyName": "Grüner, Derr und Scherz",
+			"catchPhrase": "Future-proofed full-range throughput",
+			"sector": "Agriculture",
+			"buzz": "streamline integrated methodologies",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 130,
+			"uuid": "978b9c14-f163-48e0-b232-9fe1313fe09f",
+			"companyName": "Zeyhle, Becker und Franzis",
+			"catchPhrase": "Reactive impactful contingency",
+			"sector": "IT",
+			"buzz": "optimize dot-com communities",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 131,
+			"uuid": "24eed22b-d80e-420e-81e3-c2107eafe634",
+			"companyName": "Seiders-Gruszecki",
+			"catchPhrase": "Managed contextually-based productivity",
+			"sector": "IT",
+			"buzz": "matrix out-of-the-box infrastructures",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 132,
+			"uuid": "df302735-fa1e-4575-aefd-d37c2fd8fc6c",
+			"companyName": "Kohlmann Gruppe",
+			"catchPhrase": "Managed directional complexity",
+			"sector": "Retail",
+			"buzz": "monetize distributed systems",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 133,
+			"uuid": "6d72ca80-f28c-4d13-bfa9-93fc4d99cd2f",
+			"companyName": "Busch-Pomp",
+			"catchPhrase": "Expanded non-volatile Graphical User Interface",
+			"sector": "IT",
+			"buzz": "expedite dynamic paradigms",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 134,
+			"uuid": "cbb8c0e1-5dcd-46e2-83ae-ed63d1a494d6",
+			"companyName": "Baumann, Hecht und Knoblich",
+			"catchPhrase": "Fully-configurable heuristic toolset",
+			"sector": "Tourism",
+			"buzz": "reinvent one-to-one e-business",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 135,
+			"uuid": "3787d4e8-4e4c-400e-88a9-286b1d0752bd",
+			"companyName": "Uibel, Rücker und Nannen",
+			"catchPhrase": "Virtual context-sensitive protocol",
+			"sector": "Craft",
+			"buzz": "syndicate dynamic e-tailers",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 136,
+			"uuid": "cfd42b9d-e964-4862-b019-9e8a1d7deddb",
+			"companyName": "Rosksch KG",
+			"catchPhrase": "Quality-focused holistic paradigm",
+			"sector": "Construction",
+			"buzz": "expedite sexy systems",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 137,
+			"uuid": "d4d61343-f5d3-41ff-83bb-be9de2895fe0",
+			"companyName": "Jacob, Mesloh und Steinert",
+			"catchPhrase": "Monitored encompassing infrastructure",
+			"sector": "Agriculture",
+			"buzz": "engineer B2C communities",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 138,
+			"uuid": "3f22ed39-4183-4e2e-aeb5-2b5bda86ceaf",
+			"companyName": "Beavogui, Dix und Thieke",
+			"catchPhrase": "Function-based zero administration challenge",
+			"sector": "Finance",
+			"buzz": "implement e-business relationships",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 139,
+			"uuid": "494e8b7d-e576-4391-b7b3-fe3ac48e42ac",
+			"companyName": "Ranz-Plank",
+			"catchPhrase": "Stand-alone user-facing core",
+			"sector": "Tourism",
+			"buzz": "grow transparent supply-chains",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 140,
+			"uuid": "7b01130c-e9a0-4586-9e5c-8c11b2dae35f",
+			"companyName": "Orth-Welsch",
+			"catchPhrase": "Cross-platform composite encoding",
+			"sector": "Tourism",
+			"buzz": "redefine sticky solutions",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 141,
+			"uuid": "7d1c5425-ed2a-4281-b34e-a84e3b2d5ea6",
+			"companyName": "Laux-Strutz",
+			"catchPhrase": "Operative 24/7 projection",
+			"sector": "Agriculture",
+			"buzz": "maximize synergistic channels",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 142,
+			"uuid": "f7c639e2-9dd1-4932-89ad-4dc02b41a9f7",
+			"companyName": "Griem GmbH",
+			"catchPhrase": "Expanded tangible local area network",
+			"sector": "Agriculture",
+			"buzz": "enhance compelling action-items",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 143,
+			"uuid": "2a463f98-20f8-45e4-8cea-d8a21282f405",
+			"companyName": "Loogen-Terheiden",
+			"catchPhrase": "Versatile executive complexity",
+			"sector": "IT",
+			"buzz": "integrate open-source action-items",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 144,
+			"uuid": "e0174bec-428c-442f-b562-270d297413b3",
+			"companyName": "Gangnus-Kluge",
+			"catchPhrase": "Extended methodical database",
+			"sector": "Craft",
+			"buzz": "empower 24/365 partnerships",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 145,
+			"uuid": "0a3516f5-88ad-4cd7-be7a-a5a859157f1d",
+			"companyName": "Noack-Jahn",
+			"catchPhrase": "Business-focused actuating instruction set",
+			"sector": "Tourism",
+			"buzz": "scale distributed metrics",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 146,
+			"uuid": "3602aae0-edfb-4bfb-b5c3-e8c1a50c9760",
+			"companyName": "Drews, Beck und Burger",
+			"catchPhrase": "Operative full-range Graphic Interface",
+			"sector": "Retail",
+			"buzz": "morph plug-and-play content",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 147,
+			"uuid": "03cafe0f-d845-42e1-bfd1-a4d8869582bd",
+			"companyName": "Welz-Krull",
+			"catchPhrase": "Grass-roots directional application",
+			"sector": "Agriculture",
+			"buzz": "brand extensible markets",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 148,
+			"uuid": "d4295d15-bca8-48d8-8441-91b673120637",
+			"companyName": "Schmid AG",
+			"catchPhrase": "Networked coherent array",
+			"sector": "Craft",
+			"buzz": "target cross-media initiatives",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 149,
+			"uuid": "c3af523c-184d-4e32-847f-7885ccee84a8",
+			"companyName": "Thöne-Grau",
+			"catchPhrase": "Public-key zero defect intranet",
+			"sector": "Finance",
+			"buzz": "empower impactful platforms",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 150,
+			"uuid": "2715afc2-1e0d-4f1c-afc5-5d3515330973",
+			"companyName": "Gesell AG",
+			"catchPhrase": "Networked zero administration website",
+			"sector": "Craft",
+			"buzz": "embrace magnetic web-readiness",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 151,
+			"uuid": "2520419a-6ed2-4967-b96c-cb8f00e98b5c",
+			"companyName": "Sollner OHG",
+			"catchPhrase": "Polarised clear-thinking website",
+			"sector": "Agriculture",
+			"buzz": "matrix holistic channels",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 152,
+			"uuid": "8e9131e2-5016-4b4c-9746-6b22e10a168d",
+			"companyName": "Marl OHG",
+			"catchPhrase": "Object-based encompassing challenge",
+			"sector": "Construction",
+			"buzz": "iterate efficient applications",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 153,
+			"uuid": "1438822d-b18f-4aa0-8f9c-d19874f4d487",
+			"companyName": "Zeuch-Jung",
+			"catchPhrase": "Robust optimal superstructure",
+			"sector": "Construction",
+			"buzz": "embrace customized solutions",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 154,
+			"uuid": "1211bc5a-af3a-41b1-8775-121b7a5554b2",
+			"companyName": "Gromisch Gruppe",
+			"catchPhrase": "Pre-emptive mission-critical functionalities",
+			"sector": "Finance",
+			"buzz": "optimize world-class networks",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 155,
+			"uuid": "d1888549-0d71-420b-9f9a-d7d3d8cdaa94",
+			"companyName": "Nabein KG",
+			"catchPhrase": "Expanded maximized customer loyalty",
+			"sector": "Tourism",
+			"buzz": "embrace best-of-breed web-readiness",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 156,
+			"uuid": "f8875da9-75ff-4275-b0d6-4c568654a7bc",
+			"companyName": "Steigauf-Kummle",
+			"catchPhrase": "Centralized modular algorithm",
+			"sector": "Construction",
+			"buzz": "productize transparent schemas",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 157,
+			"uuid": "ece79b79-7eb4-4721-b61f-c072cc07ad3b",
+			"companyName": "Kallabis, Lobinger und Cors",
+			"catchPhrase": "Sharable 24/7 local area network",
+			"sector": "Retail",
+			"buzz": "repurpose front-end action-items",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 158,
+			"uuid": "f841f268-c4f4-4776-b86d-bcaa3eb5bc36",
+			"companyName": "Gamlin-Eckhardt",
+			"catchPhrase": "Streamlined 24/7 groupware",
+			"sector": "Construction",
+			"buzz": "enhance global eyeballs",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 159,
+			"uuid": "7afb2d07-59c7-4841-985b-2927078abae1",
+			"companyName": "Wujak, Weiss und Saile",
+			"catchPhrase": "Devolved actuating standardization",
+			"sector": "Tourism",
+			"buzz": "transition 24/365 applications",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 160,
+			"uuid": "9c210870-aa1c-43b2-9a7f-c99ee0cd9511",
+			"companyName": "Herweg GmbH & Co. KG",
+			"catchPhrase": "Intuitive explicit focus group",
+			"sector": "Construction",
+			"buzz": "enable robust infomediaries",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 161,
+			"uuid": "c71f241a-d0a2-43ea-9fcc-7adf490f2aba",
+			"companyName": "Berends-Fuchs",
+			"catchPhrase": "Synergized heuristic protocol",
+			"sector": "Retail",
+			"buzz": "synergize dynamic initiatives",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 162,
+			"uuid": "282391c7-d742-4e01-97b4-0d3bf6ca306c",
+			"companyName": "Tucholke-Lauckner",
+			"catchPhrase": "Triple-buffered multi-state conglomeration",
+			"sector": "Retail",
+			"buzz": "syndicate customized platforms",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 163,
+			"uuid": "a68956ac-fc4e-4725-a582-696c30dc76f1",
+			"companyName": "Lieder, Sattelmaier und Breu",
+			"catchPhrase": "Adaptive background alliance",
+			"sector": "Finance",
+			"buzz": "engineer magnetic e-tailers",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 164,
+			"uuid": "3da8af3f-0341-4f2b-9d3e-6feb1cdc66de",
+			"companyName": "Heidler, Freimuth und Dauer",
+			"catchPhrase": "Function-based zero administration synergy",
+			"sector": "IT",
+			"buzz": "grow B2C architectures",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 165,
+			"uuid": "54898bf7-09f2-4623-aad1-6921565359d4",
+			"companyName": "Teufel GmbH",
+			"catchPhrase": "Organic bandwidth-monitored customer loyalty",
+			"sector": "Finance",
+			"buzz": "reinvent cutting-edge e-markets",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 166,
+			"uuid": "13c0d3ac-2f5d-4eca-b70f-a5f73985f98e",
+			"companyName": "Deja Gruppe",
+			"catchPhrase": "Triple-buffered web-enabled projection",
+			"sector": "Agriculture",
+			"buzz": "optimize holistic communities",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 167,
+			"uuid": "c1b62d8f-5931-42f8-af9b-bfa02601a9cf",
+			"companyName": "Esser-Poschmann",
+			"catchPhrase": "Focused content-based collaboration",
+			"sector": "Tourism",
+			"buzz": "implement efficient infomediaries",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 168,
+			"uuid": "68afc696-9a4a-4b26-a7e4-a57a2bf5ffaa",
+			"companyName": "Roschinsky-Gutowicz",
+			"catchPhrase": "Progressive optimizing function",
+			"sector": "Craft",
+			"buzz": "syndicate next-generation niches",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 169,
+			"uuid": "f255df7a-a54b-4173-8850-5afbda38f952",
+			"companyName": "Bickel UG",
+			"catchPhrase": "Integrated tangible moratorium",
+			"sector": "Retail",
+			"buzz": "target magnetic web-readiness",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 170,
+			"uuid": "8351ce62-db66-4194-b362-da0b498eec9a",
+			"companyName": "Haschke, Reinberg und Engelen",
+			"catchPhrase": "Fully-configurable attitude-oriented portal",
+			"sector": "Agriculture",
+			"buzz": "productize virtual convergence",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 171,
+			"uuid": "4a24ac46-ccdb-46f1-b379-b94c1e672c96",
+			"companyName": "Humbert, Busch und Naumann",
+			"catchPhrase": "Re-engineered 24 hour function",
+			"sector": "Construction",
+			"buzz": "transition 24/7 vortals",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 172,
+			"uuid": "80495bcb-a48b-4ace-8010-05506b4a370d",
+			"companyName": "Lukoschek Gruppe",
+			"catchPhrase": "Devolved multi-tasking hub",
+			"sector": "IT",
+			"buzz": "streamline cutting-edge functionalities",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 173,
+			"uuid": "8cceaf71-ad6f-4a04-9808-432ab208ef92",
+			"companyName": "Günz AG",
+			"catchPhrase": "Robust context-sensitive knowledge user",
+			"sector": "IT",
+			"buzz": "reintermediate next-generation functionalities",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 174,
+			"uuid": "b7356120-2a10-4d17-8411-07a9a4a6b72d",
+			"companyName": "Dahm-Mebold",
+			"catchPhrase": "Automated encompassing interface",
+			"sector": "Retail",
+			"buzz": "cultivate global action-items",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 175,
+			"uuid": "84ed46e1-1e1d-413a-9859-d7e081ebe595",
+			"companyName": "Winkler, Hanniske und Dragu",
+			"catchPhrase": "Multi-channelled mission-critical algorithm",
+			"sector": "Retail",
+			"buzz": "engineer one-to-one communities",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 176,
+			"uuid": "3136f793-b3d8-4b6f-99f8-1d2341fb5113",
+			"companyName": "Daum-Bock",
+			"catchPhrase": "Devolved context-sensitive knowledge base",
+			"sector": "Craft",
+			"buzz": "whiteboard bleeding-edge schemas",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 177,
+			"uuid": "59e98396-f009-4187-9632-bd7806c99bb8",
+			"companyName": "Huneke-Hackelbusch",
+			"catchPhrase": "Face to face maximized functionalities",
+			"sector": "Tourism",
+			"buzz": "grow front-end paradigms",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 178,
+			"uuid": "75067ad0-e9a3-41f6-a722-2f44e56367bc",
+			"companyName": "Wallner, Fassbender und Karrass",
+			"catchPhrase": "Devolved systematic migration",
+			"sector": "Craft",
+			"buzz": "visualize one-to-one e-business",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 179,
+			"uuid": "0e16eb9e-1174-4d85-84c9-47ead996cc99",
+			"companyName": "Schnürer GmbH & Co. KG",
+			"catchPhrase": "Distributed contextually-based leverage",
+			"sector": "Agriculture",
+			"buzz": "exploit customized e-services",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 180,
+			"uuid": "c28c6713-c76e-4d52-90cb-bd272b514085",
+			"companyName": "Heidler UG",
+			"catchPhrase": "Cloned didactic encryption",
+			"sector": "Tourism",
+			"buzz": "revolutionize distributed e-tailers",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 181,
+			"uuid": "d194582f-0ca1-4435-a14f-a467933b355d",
+			"companyName": "Schenk, Tillack und Klaus",
+			"catchPhrase": "Quality-focused content-based encoding",
+			"sector": "Retail",
+			"buzz": "unleash 24/365 web services",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 182,
+			"uuid": "12bc7b72-3894-4a7e-a930-dba062e399ce",
+			"companyName": "Zschunke-Rach",
+			"catchPhrase": "Polarised maximized encoding",
+			"sector": "Finance",
+			"buzz": "synthesize killer synergies",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 183,
+			"uuid": "93ee1a2f-53c2-4c3c-b808-0eaff503898b",
+			"companyName": "Dertmann, Welsch und Nussbeck",
+			"catchPhrase": "Re-engineered user-facing policy",
+			"sector": "Retail",
+			"buzz": "syndicate magnetic ROI",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 184,
+			"uuid": "22ff63a6-afda-4130-8f8e-63d0f0f4dadb",
+			"companyName": "Lubina-Lienshöft",
+			"catchPhrase": "Networked secondary project",
+			"sector": "Tourism",
+			"buzz": "envisioneer visionary networks",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 185,
+			"uuid": "d66f5b0b-bbbf-403d-8c96-430ffafe8645",
+			"companyName": "Höcke, Haferkamp und Scc",
+			"catchPhrase": "Optimized national toolset",
+			"sector": "Tourism",
+			"buzz": "enhance ubiquitous technologies",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 186,
+			"uuid": "693d0a66-e89a-4dde-876a-74a4890ef601",
+			"companyName": "Dauer GmbH",
+			"catchPhrase": "Synchronised value-added open system",
+			"sector": "Tourism",
+			"buzz": "synergize granular portals",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 187,
+			"uuid": "1db14dc4-20e4-4065-a1fd-04cffac79f12",
+			"companyName": "Nabein-Knorscheidt",
+			"catchPhrase": "Multi-channelled content-based policy",
+			"sector": "Construction",
+			"buzz": "leverage next-generation platforms",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 188,
+			"uuid": "05d0f27d-2694-46eb-bceb-87369ad50854",
+			"companyName": "Gehrke UG",
+			"catchPhrase": "Cloned bifurcated help-desk",
+			"sector": "Construction",
+			"buzz": "monetize real-time infomediaries",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 189,
+			"uuid": "869bf478-9e6a-49be-8336-2931c85b891a",
+			"companyName": "Hesse, Herweg und Hessek",
+			"catchPhrase": "Streamlined hybrid approach",
+			"sector": "Retail",
+			"buzz": "iterate dynamic communities",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 190,
+			"uuid": "885be722-2ff8-4cef-857a-13d16f1a49cb",
+			"companyName": "Beggerow AG",
+			"catchPhrase": "Optional 5th generation intranet",
+			"sector": "Agriculture",
+			"buzz": "exploit back-end e-markets",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 191,
+			"uuid": "c3b1590d-7b4e-48b7-98ca-a7d9c9ec1b0b",
+			"companyName": "Schuster-Esenwein",
+			"catchPhrase": "Stand-alone upward-trending instruction set",
+			"sector": "IT",
+			"buzz": "syndicate strategic networks",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 192,
+			"uuid": "fe3f225e-5b06-4535-bad4-67cbe8260e1d",
+			"companyName": "Grundmann-Restorff",
+			"catchPhrase": "Intuitive human-resource intranet",
+			"sector": "Craft",
+			"buzz": "generate dot-com paradigms",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 193,
+			"uuid": "09f293ae-ea2d-4217-8c79-60b20515cbdc",
+			"companyName": "Siebel UG",
+			"catchPhrase": "Customer-focused clear-thinking adapter",
+			"sector": "Construction",
+			"buzz": "utilize customized channels",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 194,
+			"uuid": "05db4c4b-97ac-4573-9688-2f342f3c1e3d",
+			"companyName": "Lenzen, Lauckner und Hartz",
+			"catchPhrase": "Balanced needs-based firmware",
+			"sector": "IT",
+			"buzz": "engage magnetic e-services",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 195,
+			"uuid": "43faf1d9-0004-4d0a-bf7c-cc148b53c5d0",
+			"companyName": "Lenzen, Effler und Oeser",
+			"catchPhrase": "Organized next generation interface",
+			"sector": "Retail",
+			"buzz": "synergize user-centric web services",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 196,
+			"uuid": "cdb1cf9e-6263-4c22-b0f5-5688f0972546",
+			"companyName": "Lange UG",
+			"catchPhrase": "Compatible demand-driven application",
+			"sector": "Tourism",
+			"buzz": "synergize value-added architectures",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 197,
+			"uuid": "fb6afa58-6995-45e0-8a22-63fce166d8a5",
+			"companyName": "Plass UG",
+			"catchPhrase": "Realigned even-keeled analyzer",
+			"sector": "IT",
+			"buzz": "transition interactive schemas",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 198,
+			"uuid": "f6e6787f-96a9-4893-a32a-9e2fafa70184",
+			"companyName": "Danneberg, Dingelstedt und Moser",
+			"catchPhrase": "Innovative non-volatile toolset",
+			"sector": "Construction",
+			"buzz": "architect granular solutions",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 199,
+			"uuid": "d9129a37-9e20-4ce0-9ea3-752eb0cdb36d",
+			"companyName": "Biedermann-Tudow",
+			"catchPhrase": "Adaptive human-resource installation",
+			"sector": "Construction",
+			"buzz": "matrix frictionless methodologies",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 200,
+			"uuid": "a492a113-8843-40de-a10a-edd53789e0c1",
+			"companyName": "Hessler Gruppe",
+			"catchPhrase": "Visionary exuding internet solution",
+			"sector": "IT",
+			"buzz": "unleash web-enabled schemas",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 201,
+			"uuid": "3193e6cb-8578-4ffc-bd3b-0265b0584795",
+			"companyName": "Laack-Rapp",
+			"catchPhrase": "Organic client-server encoding",
+			"sector": "IT",
+			"buzz": "monetize B2C supply-chains",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 202,
+			"uuid": "03fb56d3-2ced-41e5-801d-a5b158a59b01",
+			"companyName": "Golomski-Umbach",
+			"catchPhrase": "Upgradable asymmetric complexity",
+			"sector": "Craft",
+			"buzz": "architect value-added niches",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 203,
+			"uuid": "ddb7eba2-1883-4846-9f31-2e556609258e",
+			"companyName": "Holz OHG",
+			"catchPhrase": "Cross-platform client-driven data-warehouse",
+			"sector": "Tourism",
+			"buzz": "seize visionary eyeballs",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 204,
+			"uuid": "f2c5d304-a2c9-4eba-97e9-da1c61b80186",
+			"companyName": "Kahl GmbH",
+			"catchPhrase": "Compatible regional hardware",
+			"sector": "Construction",
+			"buzz": "reintermediate holistic systems",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 205,
+			"uuid": "54995918-b6b5-4506-983d-15dfd2344c0d",
+			"companyName": "Harter, Otto und Ahlke",
+			"catchPhrase": "Customer-focused scalable support",
+			"sector": "Tourism",
+			"buzz": "revolutionize visionary deliverables",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 206,
+			"uuid": "96c5d32f-686f-498c-9de4-81711ef88502",
+			"companyName": "Lubina-Koenig",
+			"catchPhrase": "Phased coherent matrix",
+			"sector": "Agriculture",
+			"buzz": "drive innovative convergence",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 207,
+			"uuid": "0469f673-4f69-43a3-aff9-36f362b588fe",
+			"companyName": "Zinser KG",
+			"catchPhrase": "Object-based 4th generation portal",
+			"sector": "Agriculture",
+			"buzz": "reintermediate robust synergies",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 208,
+			"uuid": "14133b92-b94b-4651-9e2f-16cbfd40e640",
+			"companyName": "Kolokas Gruppe",
+			"catchPhrase": "Robust value-added access",
+			"sector": "IT",
+			"buzz": "aggregate dot-com synergies",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 209,
+			"uuid": "af8c3490-7895-4f1e-8758-0606faa4e044",
+			"companyName": "Thust, Byrd und Ponitzsch",
+			"catchPhrase": "Networked secondary complexity",
+			"sector": "Agriculture",
+			"buzz": "monetize front-end channels",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 210,
+			"uuid": "379228d5-333f-414a-988d-25973ee2ef13",
+			"companyName": "Oppong UG",
+			"catchPhrase": "Sharable responsive encoding",
+			"sector": "Craft",
+			"buzz": "incentivize user-centric infrastructures",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 211,
+			"uuid": "9e8dd5d0-797f-4576-a412-80b1fc8ebefb",
+			"companyName": "Bogdashin GmbH",
+			"catchPhrase": "Synergistic holistic attitude",
+			"sector": "Craft",
+			"buzz": "reintermediate holistic technologies",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 212,
+			"uuid": "03bd6f00-8cec-4a52-87d5-19c8ac0c8e0d",
+			"companyName": "Wolff-Moller",
+			"catchPhrase": "Pre-emptive client-driven interface",
+			"sector": "IT",
+			"buzz": "benchmark integrated blockchains",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 213,
+			"uuid": "28bdb383-cf48-4e66-be07-5639350ca9b5",
+			"companyName": "Peselman, Becker und Freimuth",
+			"catchPhrase": "Cross-group 4th generation moderator",
+			"sector": "Construction",
+			"buzz": "reintermediate plug-and-play content",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 214,
+			"uuid": "f4d888b3-0f68-476e-a6b7-fb5dd88f0c23",
+			"companyName": "Norris AG",
+			"catchPhrase": "Enterprise-wide 24/7 complexity",
+			"sector": "Agriculture",
+			"buzz": "extend intuitive deliverables",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 215,
+			"uuid": "50bd7205-afb2-49d2-99eb-4fc7d079fae3",
+			"companyName": "Schlechtweg-May",
+			"catchPhrase": "Re-contextualized radical algorithm",
+			"sector": "Construction",
+			"buzz": "matrix out-of-the-box portals",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 216,
+			"uuid": "6334788f-7c8f-4876-b886-790be2b7503b",
+			"companyName": "Schmid GmbH",
+			"catchPhrase": "Operative radical contingency",
+			"sector": "Tourism",
+			"buzz": "facilitate synergistic ROI",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 217,
+			"uuid": "5aedede4-1f31-4915-b03f-562a2f2f2833",
+			"companyName": "Wittl, Caspari und Bunjes",
+			"catchPhrase": "Centralized optimizing open architecture",
+			"sector": "Finance",
+			"buzz": "unleash cross-media users",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 218,
+			"uuid": "28c5533b-fe5e-4ff1-8852-149f67a53cc4",
+			"companyName": "Tuschmo, Kubera und Stanger",
+			"catchPhrase": "Stand-alone context-sensitive architecture",
+			"sector": "Retail",
+			"buzz": "streamline revolutionary solutions",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 219,
+			"uuid": "fbf0be62-9aed-4042-be8e-21e352156c6b",
+			"companyName": "Möllinger-Lott",
+			"catchPhrase": "De-engineered zero tolerance hardware",
+			"sector": "Tourism",
+			"buzz": "disintermediate impactful systems",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 220,
+			"uuid": "50967b7b-afa9-44ae-b451-c2f8f515f989",
+			"companyName": "Kluwe, Lindenmayer und Feld",
+			"catchPhrase": "Re-engineered explicit time-frame",
+			"sector": "IT",
+			"buzz": "revolutionize seamless technologies",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 221,
+			"uuid": "6ddfaae1-8b50-42f2-ba89-101015c0194d",
+			"companyName": "Jaros OHG",
+			"catchPhrase": "Future-proofed context-sensitive standardization",
+			"sector": "Tourism",
+			"buzz": "enhance e-business methodologies",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 222,
+			"uuid": "53e94ae1-0d60-489a-a32a-7c1a4a4e7166",
+			"companyName": "Stauss-Beutelspacher",
+			"catchPhrase": "User-friendly zero administration info-mediaries",
+			"sector": "Construction",
+			"buzz": "matrix end-to-end e-services",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 223,
+			"uuid": "bc062b55-ee0b-4409-9c03-144e5c5a0a68",
+			"companyName": "Jakobs, Ranz und Berends",
+			"catchPhrase": "Cloned heuristic task-force",
+			"sector": "Construction",
+			"buzz": "optimize turn-key methodologies",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 224,
+			"uuid": "4acf0503-4e02-4832-ab7d-e31fbf97959b",
+			"companyName": "Sielemann-Wolf",
+			"catchPhrase": "Right-sized maximized contingency",
+			"sector": "Retail",
+			"buzz": "matrix 24/7 interfaces",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 225,
+			"uuid": "f6d5ee9f-5149-4557-bcae-c606dd5ced4b",
+			"companyName": "Theele, Panzig und Klimczak",
+			"catchPhrase": "Re-engineered leading edge flexibility",
+			"sector": "Finance",
+			"buzz": "seize B2C vortals",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 226,
+			"uuid": "954c973e-8ab9-45d5-acb1-d8337d5edc71",
+			"companyName": "Schulte KG",
+			"catchPhrase": "Balanced stable matrices",
+			"sector": "Retail",
+			"buzz": "scale efficient blockchains",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 227,
+			"uuid": "90de62b2-7cf1-4b78-9efc-c3edd955996a",
+			"companyName": "Kreissig KG",
+			"catchPhrase": "Versatile discrete pricing structure",
+			"sector": "Agriculture",
+			"buzz": "aggregate synergistic bandwidth",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 228,
+			"uuid": "04660d9b-dc23-4163-bc35-3c752bb29ba3",
+			"companyName": "Zeuch KG",
+			"catchPhrase": "Proactive holistic toolset",
+			"sector": "Tourism",
+			"buzz": "exploit distributed architectures",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 229,
+			"uuid": "7eefc93e-b5bf-4476-bb40-e5822b7517f1",
+			"companyName": "Krol OHG",
+			"catchPhrase": "Operative 3rd generation throughput",
+			"sector": "Agriculture",
+			"buzz": "orchestrate vertical networks",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 230,
+			"uuid": "27c95148-f57e-4ec9-ae4b-2dbdc699e456",
+			"companyName": "Kleinmann-Kramer",
+			"catchPhrase": "Versatile value-added application",
+			"sector": "IT",
+			"buzz": "streamline B2C supply-chains",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 231,
+			"uuid": "874601f7-e486-4b4e-8477-0e09df5073cb",
+			"companyName": "Bornscheuer GmbH & Co. KG",
+			"catchPhrase": "Realigned national collaboration",
+			"sector": "Tourism",
+			"buzz": "architect magnetic networks",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 232,
+			"uuid": "d8578c42-1423-4f0b-9d81-068f9925f5e6",
+			"companyName": "Huls KG",
+			"catchPhrase": "Customer-focused asynchronous encoding",
+			"sector": "Finance",
+			"buzz": "reintermediate robust initiatives",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 233,
+			"uuid": "d9006ef3-6dca-4571-b093-bee01357ff43",
+			"companyName": "Humbert-Bremer",
+			"catchPhrase": "Extended hybrid hub",
+			"sector": "Retail",
+			"buzz": "generate frictionless blockchains",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 234,
+			"uuid": "f281b699-8f10-45d8-8a9f-0fbb21ba5240",
+			"companyName": "Hoffmann GmbH",
+			"catchPhrase": "Fully-configurable zero administration customer loyalty",
+			"sector": "Craft",
+			"buzz": "brand visionary channels",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 235,
+			"uuid": "160b85c5-0c1a-4fb8-9cb3-44dba762bc3c",
+			"companyName": "Koehl, Maybach und Pfennig",
+			"catchPhrase": "Stand-alone even-keeled product",
+			"sector": "Craft",
+			"buzz": "recontextualize holistic schemas",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 236,
+			"uuid": "422cc772-6b65-4827-acf4-3969c7076275",
+			"companyName": "Esenwein, Rautenkranz und Müller",
+			"catchPhrase": "Realigned homogeneous benchmark",
+			"sector": "IT",
+			"buzz": "repurpose front-end applications",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 237,
+			"uuid": "c13bcaea-320e-4f44-8bd8-ca88c9781975",
+			"companyName": "Hoffmann-Brettschneider",
+			"catchPhrase": "Organic discrete strategy",
+			"sector": "IT",
+			"buzz": "matrix synergistic bandwidth",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 238,
+			"uuid": "ce0dcee8-7fe9-486a-8b1c-1fcb60107aa6",
+			"companyName": "Greschner, Newton und Saumweber",
+			"catchPhrase": "Monitored context-sensitive artificial intelligence",
+			"sector": "Finance",
+			"buzz": "morph cutting-edge e-services",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 239,
+			"uuid": "10a54d72-ddc8-4bc9-911a-a080f8a20a04",
+			"companyName": "Mau-Neuendorf",
+			"catchPhrase": "Assimilated secondary interface",
+			"sector": "Retail",
+			"buzz": "benchmark distributed convergence",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 240,
+			"uuid": "407a8ae6-8524-4994-b5fb-55673d081a96",
+			"companyName": "Tafelmeier-Diekmann",
+			"catchPhrase": "Fully-configurable asymmetric database",
+			"sector": "Agriculture",
+			"buzz": "innovate efficient paradigms",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 241,
+			"uuid": "42647aae-297f-44db-b320-a7e82a97a870",
+			"companyName": "Karrass-Niklaus",
+			"catchPhrase": "Pre-emptive fresh-thinking knowledge base",
+			"sector": "Finance",
+			"buzz": "extend virtual markets",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 242,
+			"uuid": "24c101cd-8b18-499d-b722-262df032e423",
+			"companyName": "Heidelmann GmbH & Co. KG",
+			"catchPhrase": "Multi-layered client-server process improvement",
+			"sector": "Agriculture",
+			"buzz": "streamline value-added supply-chains",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 243,
+			"uuid": "a5824784-053a-4b24-baba-379ada2db049",
+			"companyName": "Bürklein GmbH",
+			"catchPhrase": "Triple-buffered systematic capability",
+			"sector": "Agriculture",
+			"buzz": "target integrated e-business",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 244,
+			"uuid": "798eb64d-8f3f-46c2-a94e-e0b6430de917",
+			"companyName": "Saile-Dingelstedt",
+			"catchPhrase": "Enterprise-wide dedicated archive",
+			"sector": "Craft",
+			"buzz": "expedite compelling synergies",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 245,
+			"uuid": "9cfc9dcf-305c-4769-b7e0-ec4f90626c27",
+			"companyName": "Sürth, Goldbeck und Bachmann",
+			"catchPhrase": "Vision-oriented logistical system engine",
+			"sector": "Construction",
+			"buzz": "disintermediate ubiquitous portals",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 246,
+			"uuid": "588c2158-a50d-43d2-a65d-ca788f8112fa",
+			"companyName": "Obergföll, Reiber und Illing",
+			"catchPhrase": "Synergistic systematic website",
+			"sector": "Retail",
+			"buzz": "leverage scalable platforms",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 247,
+			"uuid": "da528ca8-beaa-4c74-9160-f276138e77b4",
+			"companyName": "Pippig OHG",
+			"catchPhrase": "Configurable didactic info-mediaries",
+			"sector": "Agriculture",
+			"buzz": "maximize one-to-one infrastructures",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 248,
+			"uuid": "9415db47-eacb-4b48-8ec5-d6c066aa6e43",
+			"companyName": "Rodowski UG",
+			"catchPhrase": "Upgradable needs-based local area network",
+			"sector": "Finance",
+			"buzz": "maximize best-of-breed models",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 249,
+			"uuid": "57726814-a33d-4d8c-99f5-b8c259c9af26",
+			"companyName": "Lienshöft-Stengl",
+			"catchPhrase": "User-friendly optimizing software",
+			"sector": "Agriculture",
+			"buzz": "reintermediate world-class niches",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 250,
+			"uuid": "8effba73-f588-44e7-b03d-1ac95b8852d2",
+			"companyName": "Hassfeld GmbH",
+			"catchPhrase": "Automated directional budgetary management",
+			"sector": "Finance",
+			"buzz": "deliver granular e-tailers",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 251,
+			"uuid": "dde001ed-ba28-44be-86d1-10d0b753be62",
+			"companyName": "Schwab, Fassbender und Zach",
+			"catchPhrase": "Focused fault-tolerant database",
+			"sector": "Tourism",
+			"buzz": "enable seamless experiences",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 252,
+			"uuid": "9b20c5bf-5c72-4825-ae95-602d84d3b874",
+			"companyName": "Fricke, Grundmann und Beck",
+			"catchPhrase": "Compatible disintermediate array",
+			"sector": "IT",
+			"buzz": "repurpose magnetic experiences",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 253,
+			"uuid": "09fad951-04ab-410a-8ea9-3fdd950c7b26",
+			"companyName": "Gotthardt AG",
+			"catchPhrase": "Enterprise-wide impactful archive",
+			"sector": "Finance",
+			"buzz": "productize dot-com web-readiness",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 254,
+			"uuid": "72c06b15-45d5-4b37-aa60-57ef29a02e79",
+			"companyName": "Dietzsch-Hillard",
+			"catchPhrase": "Polarised local application",
+			"sector": "Retail",
+			"buzz": "optimize 24/365 eyeballs",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 255,
+			"uuid": "e2c1c2d9-3720-4f17-a2ba-99a070845d6c",
+			"companyName": "Schütze-Küter",
+			"catchPhrase": "Persistent grid-enabled neural-net",
+			"sector": "Tourism",
+			"buzz": "disintermediate customized channels",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 256,
+			"uuid": "e0052b6c-8323-496b-870f-064ff2e03d07",
+			"companyName": "Diezel-Tischler",
+			"catchPhrase": "Diverse interactive migration",
+			"sector": "Retail",
+			"buzz": "grow killer blockchains",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 257,
+			"uuid": "5ed7649a-52cd-4010-a917-fdff4e7aed9e",
+			"companyName": "Northoff Gruppe",
+			"catchPhrase": "Implemented client-driven encryption",
+			"sector": "IT",
+			"buzz": "grow compelling action-items",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 258,
+			"uuid": "0f63955f-5be9-428d-a517-091fb585ed06",
+			"companyName": "Berger-Lobinger",
+			"catchPhrase": "Extended optimal website",
+			"sector": "Construction",
+			"buzz": "morph integrated synergies",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 259,
+			"uuid": "447e15c1-55be-43e3-85f9-a891d21fa6d4",
+			"companyName": "Friedrich-Ranz",
+			"catchPhrase": "Business-focused 4th generation model",
+			"sector": "Construction",
+			"buzz": "engineer one-to-one action-items",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 260,
+			"uuid": "2cc489b5-5a1b-4803-8b44-645f33237a6f",
+			"companyName": "Metzger, Blume und Hackbusch",
+			"catchPhrase": "Inverse disintermediate internet solution",
+			"sector": "Retail",
+			"buzz": "revolutionize compelling markets",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 261,
+			"uuid": "92a5da1b-3be3-4f32-a5c7-2306370de26b",
+			"companyName": "Zach, Rokossa und Anding",
+			"catchPhrase": "Monitored empowering knowledge user",
+			"sector": "Agriculture",
+			"buzz": "recontextualize user-centric technologies",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 262,
+			"uuid": "f63781ff-f4c3-4dcf-a2f5-76af8cc5b9dd",
+			"companyName": "May-Hüttcher",
+			"catchPhrase": "Re-contextualized transitional contingency",
+			"sector": "Agriculture",
+			"buzz": "empower synergistic convergence",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 263,
+			"uuid": "1e82ffac-df91-4b5c-97fe-a7510e2b0f44",
+			"companyName": "Jaros KG",
+			"catchPhrase": "Cross-group client-driven capability",
+			"sector": "IT",
+			"buzz": "whiteboard frictionless initiatives",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 264,
+			"uuid": "7a9d669e-cb01-4631-acb7-60e757728596",
+			"companyName": "Jürgens, Geisler und Schwarzer",
+			"catchPhrase": "Visionary client-server success",
+			"sector": "IT",
+			"buzz": "synergize plug-and-play niches",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 265,
+			"uuid": "1da85939-d0df-44d6-98a4-c8e4db31f357",
+			"companyName": "Rheder-Vahlensieck",
+			"catchPhrase": "Open-architected mobile projection",
+			"sector": "Retail",
+			"buzz": "iterate distributed relationships",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 266,
+			"uuid": "ff5ee6c3-9fc4-44ce-b0bf-85a5e4b00912",
+			"companyName": "Dreher, Grundmann und Schütze",
+			"catchPhrase": "Function-based methodical pricing structure",
+			"sector": "Construction",
+			"buzz": "enhance end-to-end technologies",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 267,
+			"uuid": "ddad3cff-bf0a-479d-9128-337805995c10",
+			"companyName": "Lichtenhagen, Steinecke und Filsinger",
+			"catchPhrase": "Pre-emptive attitude-oriented circuit",
+			"sector": "Construction",
+			"buzz": "engage real-time eyeballs",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 268,
+			"uuid": "65b8e248-a0cb-43ba-96c3-e280fac95a85",
+			"companyName": "Börgeling-Vahlensieck",
+			"catchPhrase": "Profound mobile functionalities",
+			"sector": "Retail",
+			"buzz": "seize robust markets",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 269,
+			"uuid": "63cc0cee-3209-4192-8bde-2090d5fba7ac",
+			"companyName": "Schuldt UG",
+			"catchPhrase": "Exclusive asymmetric solution",
+			"sector": "Finance",
+			"buzz": "engineer one-to-one partnerships",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 270,
+			"uuid": "04687800-cf35-4728-b3f4-77ae9513736f",
+			"companyName": "Klein AG",
+			"catchPhrase": "Profit-focused client-server benchmark",
+			"sector": "Tourism",
+			"buzz": "engineer user-centric e-commerce",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 271,
+			"uuid": "1a799ea1-4117-4435-ae89-eef6b4a30095",
+			"companyName": "Loogen, Lokar und Vogelgsang",
+			"catchPhrase": "Vision-oriented methodical interface",
+			"sector": "Construction",
+			"buzz": "benchmark global e-services",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 272,
+			"uuid": "0b518276-7c51-4e88-9290-40cd0082444a",
+			"companyName": "Scheer OHG",
+			"catchPhrase": "Centralized client-driven encryption",
+			"sector": "Construction",
+			"buzz": "harness magnetic supply-chains",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 273,
+			"uuid": "bfbd4b99-553f-4eb0-8ce1-1e7600a453d3",
+			"companyName": "Hirschberg-Schmid",
+			"catchPhrase": "Reactive secondary artificial intelligence",
+			"sector": "Finance",
+			"buzz": "incentivize cutting-edge methodologies",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 274,
+			"uuid": "7abbc66d-3eff-465a-ad37-5d01c19eace2",
+			"companyName": "Bethke, Rietmüller und Stube",
+			"catchPhrase": "Robust static encoding",
+			"sector": "Construction",
+			"buzz": "cultivate leading-edge convergence",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 275,
+			"uuid": "32949c24-a224-4e0f-8eec-f1e4860f213d",
+			"companyName": "Briesenick UG",
+			"catchPhrase": "Horizontal fault-tolerant budgetary management",
+			"sector": "Retail",
+			"buzz": "mesh synergistic communities",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 276,
+			"uuid": "a920e054-ddc7-4a35-ada5-fd580d558b7b",
+			"companyName": "Hillard-Restorff",
+			"catchPhrase": "Face to face attitude-oriented Graphic Interface",
+			"sector": "IT",
+			"buzz": "incentivize 24/365 markets",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 277,
+			"uuid": "058a27cc-ce3e-4a43-b3b7-eb13e551824e",
+			"companyName": "Emert Gruppe",
+			"catchPhrase": "Multi-layered grid-enabled projection",
+			"sector": "Craft",
+			"buzz": "e-enable virtual infomediaries",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 278,
+			"uuid": "8ba3bbc3-75c0-41d9-a08c-6cf6dfe7ad02",
+			"companyName": "Schnelting AG",
+			"catchPhrase": "Future-proofed context-sensitive model",
+			"sector": "Retail",
+			"buzz": "morph plug-and-play eyeballs",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 279,
+			"uuid": "61f45e29-3ff6-481d-b7d9-dd6607a20830",
+			"companyName": "Abel, Biesenbach und Breitenstein",
+			"catchPhrase": "Polarised multimedia paradigm",
+			"sector": "Finance",
+			"buzz": "empower sticky technologies",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 280,
+			"uuid": "7ac98f97-3005-4a48-8df6-667b0c1ec48a",
+			"companyName": "Streese, Lewke und Schwidde",
+			"catchPhrase": "Multi-tiered intangible intranet",
+			"sector": "Finance",
+			"buzz": "enhance one-to-one paradigms",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 281,
+			"uuid": "51539339-d2b1-42f1-8663-1a63fd2f0bea",
+			"companyName": "Jakubczyk AG",
+			"catchPhrase": "Progressive didactic capability",
+			"sector": "Agriculture",
+			"buzz": "utilize cross-platform vortals",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 282,
+			"uuid": "75aa2d8c-9c58-49a5-812f-a2963dfaea8b",
+			"companyName": "Welzel GmbH",
+			"catchPhrase": "Seamless multi-tasking pricing structure",
+			"sector": "Retail",
+			"buzz": "whiteboard global eyeballs",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 283,
+			"uuid": "dee3f01d-0be3-424e-9129-91487571f01e",
+			"companyName": "Stolz-Pomp",
+			"catchPhrase": "Decentralized client-server concept",
+			"sector": "Construction",
+			"buzz": "revolutionize leading-edge web services",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 284,
+			"uuid": "70b2d1e0-3216-4751-b85e-444693c34e7c",
+			"companyName": "Schulz, Theele und Tuch",
+			"catchPhrase": "Proactive mobile adapter",
+			"sector": "Construction",
+			"buzz": "productize leading-edge initiatives",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 285,
+			"uuid": "1dd5a7b6-de3d-4af6-8273-a14ad4c2a1bc",
+			"companyName": "Dengler-Kosenkow",
+			"catchPhrase": "Diverse grid-enabled intranet",
+			"sector": "Construction",
+			"buzz": "whiteboard next-generation deliverables",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 286,
+			"uuid": "44cf1e35-32e7-44b5-a5e1-b6905a29ab0e",
+			"companyName": "Kuschewitz, Laack und Benzing",
+			"catchPhrase": "Devolved regional alliance",
+			"sector": "Craft",
+			"buzz": "facilitate e-business ROI",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 287,
+			"uuid": "edc6ff5a-d5f9-4677-93da-5a429482cdfc",
+			"companyName": "Skibicki, Kahles und Daimer",
+			"catchPhrase": "Face to face optimal throughput",
+			"sector": "Retail",
+			"buzz": "cultivate out-of-the-box e-markets",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 288,
+			"uuid": "501dd2e3-29a9-44c1-a024-d3b2e3080417",
+			"companyName": "Hohl, Seidel und Schindzielorz",
+			"catchPhrase": "Function-based contextually-based collaboration",
+			"sector": "Construction",
+			"buzz": "utilize extensible infrastructures",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 289,
+			"uuid": "22db1707-1573-46bb-ad4d-2043ec370e08",
+			"companyName": "Illing-Gruszecki",
+			"catchPhrase": "Vision-oriented global toolset",
+			"sector": "Tourism",
+			"buzz": "empower distributed infrastructures",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 290,
+			"uuid": "bc3f1288-41d3-479f-9706-8296ee4ad869",
+			"companyName": "Berger, Humbert und Borgschulze",
+			"catchPhrase": "Fundamental zero administration capacity",
+			"sector": "Finance",
+			"buzz": "transform dynamic functionalities",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 291,
+			"uuid": "b845aa7a-022b-4037-8300-1b1001f33407",
+			"companyName": "Schwarthoff Gruppe",
+			"catchPhrase": "Function-based intermediate forecast",
+			"sector": "Finance",
+			"buzz": "strategize interactive supply-chains",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 292,
+			"uuid": "04a528ae-ce2c-4f16-a547-210cd01fc8a5",
+			"companyName": "Wassiluk, Löser und Küsters",
+			"catchPhrase": "Business-focused executive definition",
+			"sector": "IT",
+			"buzz": "evolve user-centric supply-chains",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 293,
+			"uuid": "d782bee0-f175-4acb-8f0f-583706484938",
+			"companyName": "Schlachter KG",
+			"catchPhrase": "Proactive asynchronous flexibility",
+			"sector": "Retail",
+			"buzz": "drive sticky platforms",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 294,
+			"uuid": "c2b91dce-a0b2-42cd-ac82-a62bc0b32bb7",
+			"companyName": "Matthes, Restorff und Grothaus",
+			"catchPhrase": "Progressive high-level Graphic Interface",
+			"sector": "Craft",
+			"buzz": "innovate cross-media communities",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 295,
+			"uuid": "ae722381-5e37-428b-ae15-d8a06f6063b3",
+			"companyName": "Hensel Gruppe",
+			"catchPhrase": "Automated client-driven complexity",
+			"sector": "Construction",
+			"buzz": "benchmark back-end web-readiness",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 296,
+			"uuid": "e828d0c1-6c0e-42a3-8964-cdcc9557049c",
+			"companyName": "Höhne KG",
+			"catchPhrase": "Operative modular challenge",
+			"sector": "Craft",
+			"buzz": "envisioneer synergistic bandwidth",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 297,
+			"uuid": "41a2776f-abb0-40cb-82d6-40dca28ec400",
+			"companyName": "Gesell, Wolff und Moll",
+			"catchPhrase": "Fundamental encompassing customer loyalty",
+			"sector": "Finance",
+			"buzz": "generate visionary web-readiness",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 298,
+			"uuid": "d8a68895-a800-4ce2-9240-248833e4cecc",
+			"companyName": "Maak-Amann",
+			"catchPhrase": "Diverse intermediate software",
+			"sector": "Retail",
+			"buzz": "innovate bleeding-edge mindshare",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 299,
+			"uuid": "f084182f-321e-430f-9aeb-1c0e53975358",
+			"companyName": "Klimczak GmbH",
+			"catchPhrase": "Right-sized mission-critical policy",
+			"sector": "Finance",
+			"buzz": "envisioneer global e-business",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 300,
+			"uuid": "00ee3bd3-2f5a-447b-9356-729858493a4f",
+			"companyName": "Büscher-Stanger",
+			"catchPhrase": "Face to face 24/7 frame",
+			"sector": "Agriculture",
+			"buzz": "synthesize transparent markets",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 301,
+			"uuid": "042b4870-c440-4ad4-8de9-bc00d56d3332",
+			"companyName": "Mensah-Damaske",
+			"catchPhrase": "Digitized multi-state methodology",
+			"sector": "Agriculture",
+			"buzz": "redefine bricks-and-clicks architectures",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 302,
+			"uuid": "82197de7-90e2-4eb8-94bd-6651e1c01f43",
+			"companyName": "Huls, Wachenbrunner und Sutschet",
+			"catchPhrase": "Multi-layered user-facing collaboration",
+			"sector": "Retail",
+			"buzz": "productize dot-com niches",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 303,
+			"uuid": "ccdf2d0d-cf1a-4d57-a9f8-f72303a8786e",
+			"companyName": "Böhm GmbH",
+			"catchPhrase": "Realigned impactful complexity",
+			"sector": "Tourism",
+			"buzz": "monetize sexy interfaces",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 304,
+			"uuid": "45921a5f-1a5d-40d9-b687-cf9910e9166a",
+			"companyName": "Motchebon, Reumann und Gerson",
+			"catchPhrase": "Customizable client-server flexibility",
+			"sector": "Construction",
+			"buzz": "iterate vertical e-business",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 305,
+			"uuid": "788832d9-459a-4667-bd09-9703de8279d5",
+			"companyName": "Schönfeld-Bienasch",
+			"catchPhrase": "Quality-focused interactive strategy",
+			"sector": "Construction",
+			"buzz": "reintermediate one-to-one communities",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 306,
+			"uuid": "a26e51a5-a969-4e92-b71b-e80ebd22039f",
+			"companyName": "Ponitzsch UG",
+			"catchPhrase": "Seamless intermediate challenge",
+			"sector": "Retail",
+			"buzz": "matrix wireless markets",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 307,
+			"uuid": "6058e112-fb3a-4835-a069-e780872592e9",
+			"companyName": "Schüppel-Hansen",
+			"catchPhrase": "De-engineered maximized database",
+			"sector": "Craft",
+			"buzz": "monetize 24/7 paradigms",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 308,
+			"uuid": "c76c62d8-08e2-4fa0-b847-34f184691260",
+			"companyName": "Zwiener, Mohrhard und Bringmann",
+			"catchPhrase": "Sharable client-server artificial intelligence",
+			"sector": "Agriculture",
+			"buzz": "revolutionize customized channels",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 309,
+			"uuid": "888114ce-8251-47d6-913d-658c24bec500",
+			"companyName": "Schuermann, Fassbender und König",
+			"catchPhrase": "Customer-focused radical success",
+			"sector": "Tourism",
+			"buzz": "repurpose customized models",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 310,
+			"uuid": "85ed735e-f4e9-4b7c-a92f-784b59be46d5",
+			"companyName": "Pallentin-Zahn",
+			"catchPhrase": "Down-sized mission-critical definition",
+			"sector": "IT",
+			"buzz": "whiteboard open-source models",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 311,
+			"uuid": "958c7ab1-493c-4c26-acf0-9f6f342431fe",
+			"companyName": "Schütze GmbH",
+			"catchPhrase": "User-centric modular intranet",
+			"sector": "Retail",
+			"buzz": "reintermediate ubiquitous users",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 312,
+			"uuid": "ffbf0c82-19ca-40d3-b154-5008aa1d1a8b",
+			"companyName": "Uhrig AG",
+			"catchPhrase": "Intuitive even-keeled standardization",
+			"sector": "Retail",
+			"buzz": "disintermediate transparent blockchains",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 313,
+			"uuid": "99b6aa8a-a1fb-4dc2-89d5-62d679a70d3d",
+			"companyName": "Wallstab-Heidler",
+			"catchPhrase": "Multi-channelled multi-tasking attitude",
+			"sector": "Craft",
+			"buzz": "transform magnetic markets",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 314,
+			"uuid": "04a3f291-e901-461a-8463-f2d41d57ab32",
+			"companyName": "Weidlich, Ganzmann und Heinemann",
+			"catchPhrase": "Monitored fresh-thinking solution",
+			"sector": "Agriculture",
+			"buzz": "optimize compelling initiatives",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 315,
+			"uuid": "34668f23-0f37-4768-8efa-1175e158dbd8",
+			"companyName": "Bickel, Prah und Dragu",
+			"catchPhrase": "Profound discrete initiative",
+			"sector": "Craft",
+			"buzz": "extend collaborative schemas",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 316,
+			"uuid": "04cfd371-dda0-4ece-bb9e-15e1afa52534",
+			"companyName": "Knobel-Baganz",
+			"catchPhrase": "Innovative incremental time-frame",
+			"sector": "Retail",
+			"buzz": "exploit rich solutions",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 317,
+			"uuid": "724d4364-bfff-4967-b82e-21ababaf74ec",
+			"companyName": "Pusch-Bader",
+			"catchPhrase": "De-engineered bifurcated knowledge base",
+			"sector": "Retail",
+			"buzz": "iterate user-centric channels",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 318,
+			"uuid": "b184370f-cd9e-46f2-8dfd-5a6df0425607",
+			"companyName": "Weiler-Berends",
+			"catchPhrase": "Synergized holistic hardware",
+			"sector": "Agriculture",
+			"buzz": "streamline back-end e-markets",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 319,
+			"uuid": "3d5711fb-36be-4c17-8603-eb0bbf99acdd",
+			"companyName": "Grossheim, Wehrsen und Norris",
+			"catchPhrase": "Enhanced even-keeled help-desk",
+			"sector": "Retail",
+			"buzz": "transition scalable methodologies",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 320,
+			"uuid": "daee90ee-668f-47f3-8799-514f2bb6a59b",
+			"companyName": "Grüner-Sachse",
+			"catchPhrase": "Streamlined composite approach",
+			"sector": "Construction",
+			"buzz": "exploit world-class partnerships",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 321,
+			"uuid": "b3af7668-7acc-4983-8168-79a2efe2a624",
+			"companyName": "Wolff KG",
+			"catchPhrase": "Persevering transitional artificial intelligence",
+			"sector": "Construction",
+			"buzz": "envisioneer e-business technologies",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 322,
+			"uuid": "477c62d9-743a-4d0b-9b54-dd0b5a7b4dea",
+			"companyName": "Schumacher OHG",
+			"catchPhrase": "Organic needs-based leverage",
+			"sector": "Finance",
+			"buzz": "generate back-end initiatives",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 323,
+			"uuid": "3808f6f9-ad39-4e9d-9939-6925687dd158",
+			"companyName": "Krüger, Bogenrieder und Sander",
+			"catchPhrase": "Networked system-worthy application",
+			"sector": "Craft",
+			"buzz": "orchestrate cross-platform methodologies",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 324,
+			"uuid": "2892b9e4-a836-4964-bb70-0d75878bfc63",
+			"companyName": "Krauspe Gruppe",
+			"catchPhrase": "Expanded responsive orchestration",
+			"sector": "Craft",
+			"buzz": "generate cutting-edge interfaces",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 325,
+			"uuid": "21243bb6-976e-4f17-8cad-8cb3b51145d0",
+			"companyName": "Sack-Grube",
+			"catchPhrase": "Operative systemic database",
+			"sector": "Craft",
+			"buzz": "embrace sexy networks",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 326,
+			"uuid": "97afae2e-a352-4a9a-957b-a1e0eb6ca8ad",
+			"companyName": "Kröger-Marner",
+			"catchPhrase": "Realigned exuding solution",
+			"sector": "Agriculture",
+			"buzz": "synthesize seamless web-readiness",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 327,
+			"uuid": "e156dabf-e820-4bef-ac85-2985e36ebd6a",
+			"companyName": "Bauschinger KG",
+			"catchPhrase": "Robust intangible algorithm",
+			"sector": "Tourism",
+			"buzz": "matrix vertical synergies",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 328,
+			"uuid": "6fb4f0cf-da3f-4e3e-993d-6b0f90083cb1",
+			"companyName": "Gruning-Deerberg",
+			"catchPhrase": "Grass-roots discrete frame",
+			"sector": "Agriculture",
+			"buzz": "engineer seamless metrics",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 329,
+			"uuid": "e62b8e62-05f3-4541-9ec3-858ba00cee4f",
+			"companyName": "Scheurer-Mathiszik",
+			"catchPhrase": "Digitized cohesive archive",
+			"sector": "Finance",
+			"buzz": "synergize customized systems",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 330,
+			"uuid": "3e84aa52-3ef5-4d06-90dc-2a5a20644392",
+			"companyName": "Klink OHG",
+			"catchPhrase": "Configurable grid-enabled archive",
+			"sector": "Agriculture",
+			"buzz": "unleash out-of-the-box e-services",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 331,
+			"uuid": "9b5d3b9e-b584-49fb-b7c3-ed36a543a261",
+			"companyName": "Benner AG",
+			"catchPhrase": "Right-sized logistical middleware",
+			"sector": "IT",
+			"buzz": "synergize mission-critical infomediaries",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 332,
+			"uuid": "ff34c285-10f2-42b7-8018-97225aa52249",
+			"companyName": "Krull OHG",
+			"catchPhrase": "Enterprise-wide system-worthy productivity",
+			"sector": "Finance",
+			"buzz": "grow mission-critical experiences",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 333,
+			"uuid": "878b0253-8e80-4730-8ee9-afb299e34b84",
+			"companyName": "Spiegelburg, Kettenis und Carlsohn",
+			"catchPhrase": "Self-enabling encompassing alliance",
+			"sector": "Construction",
+			"buzz": "exploit rich users",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 334,
+			"uuid": "0f16222b-933e-4ddf-b540-7091ca1bdf6f",
+			"companyName": "Illing-Tonat",
+			"catchPhrase": "Mandatory transitional capability",
+			"sector": "Construction",
+			"buzz": "disintermediate robust experiences",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 335,
+			"uuid": "dad4a4ee-6e0a-4a52-bac5-1bfbbdce56de",
+			"companyName": "Stengel-Höhne",
+			"catchPhrase": "Robust 24 hour functionalities",
+			"sector": "Tourism",
+			"buzz": "disintermediate killer relationships",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 336,
+			"uuid": "89c52e58-64c4-4b77-9395-f214a44f3c43",
+			"companyName": "Martel-Weis",
+			"catchPhrase": "Configurable systemic application",
+			"sector": "Finance",
+			"buzz": "exploit user-centric supply-chains",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 337,
+			"uuid": "34708343-fd64-4af5-96c6-feddc6d4aaa9",
+			"companyName": "Theele, Schwerdtner und Bienasch",
+			"catchPhrase": "Persistent reciprocal paradigm",
+			"sector": "Agriculture",
+			"buzz": "facilitate one-to-one methodologies",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 338,
+			"uuid": "eaaa248a-cdde-439f-b077-a9e1c5a076a8",
+			"companyName": "Schlechtweg-Riepl",
+			"catchPhrase": "Sharable transitional concept",
+			"sector": "Construction",
+			"buzz": "synergize enterprise markets",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 339,
+			"uuid": "fe2af210-783e-4b89-a3c4-51dfb3b88571",
+			"companyName": "Conrad-Riermeier",
+			"catchPhrase": "Multi-layered actuating algorithm",
+			"sector": "Tourism",
+			"buzz": "drive visionary technologies",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 340,
+			"uuid": "8a3ffd9c-a08e-4b53-a57b-a5da40f971e9",
+			"companyName": "Rapp Gruppe",
+			"catchPhrase": "Multi-channelled system-worthy groupware",
+			"sector": "Tourism",
+			"buzz": "benchmark sticky infomediaries",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 341,
+			"uuid": "cba473c0-831c-41c9-a8fc-4d5b3f779def",
+			"companyName": "Pöge, Umbach und Büscher",
+			"catchPhrase": "Down-sized responsive groupware",
+			"sector": "Construction",
+			"buzz": "architect front-end bandwidth",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 342,
+			"uuid": "e03d939e-33c8-4993-aed4-92d4ff6985ac",
+			"companyName": "Heidler KG",
+			"catchPhrase": "Right-sized global paradigm",
+			"sector": "IT",
+			"buzz": "engage interactive relationships",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 343,
+			"uuid": "1b42d2c6-e184-455a-a2e1-43edba49cd02",
+			"companyName": "Reppin-Filsinger",
+			"catchPhrase": "Ameliorated foreground approach",
+			"sector": "Agriculture",
+			"buzz": "synthesize real-time supply-chains",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 344,
+			"uuid": "147dcec2-6e4f-4047-a9a9-b1cb70fa44c6",
+			"companyName": "Leo Gruppe",
+			"catchPhrase": "Implemented dedicated attitude",
+			"sector": "Agriculture",
+			"buzz": "leverage sticky functionalities",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 345,
+			"uuid": "c4b1c63c-1ad2-46b1-a7bc-d717a6257a60",
+			"companyName": "Fink, Uhlemann und Schramm",
+			"catchPhrase": "Robust executive superstructure",
+			"sector": "Craft",
+			"buzz": "drive innovative experiences",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 346,
+			"uuid": "3796abe7-e4d0-43b0-beb2-c3317a62cde8",
+			"companyName": "Reinelt-Dreier",
+			"catchPhrase": "Optional encompassing conglomeration",
+			"sector": "Agriculture",
+			"buzz": "reinvent wireless portals",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 347,
+			"uuid": "f6e1a5c8-0556-44ed-ae7e-b9f5c3a0a856",
+			"companyName": "Gebhardt KG",
+			"catchPhrase": "Triple-buffered optimal alliance",
+			"sector": "IT",
+			"buzz": "deliver B2C communities",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 348,
+			"uuid": "4b7c1544-ac58-4f6d-8c6d-df4543008fa8",
+			"companyName": "Kolb-Wessinghage",
+			"catchPhrase": "Customizable asynchronous model",
+			"sector": "Agriculture",
+			"buzz": "generate open-source bandwidth",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 349,
+			"uuid": "3424dc79-b98d-4ca8-a3c8-fc712c53ce4f",
+			"companyName": "Wischek UG",
+			"catchPhrase": "Re-contextualized eco-centric neural-net",
+			"sector": "Construction",
+			"buzz": "streamline ubiquitous e-commerce",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 350,
+			"uuid": "25b44fae-1443-4127-8f18-93b8f1bf34cb",
+			"companyName": "Merseburg-Saumweber",
+			"catchPhrase": "Reactive reciprocal neural-net",
+			"sector": "Tourism",
+			"buzz": "enable sexy e-services",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 351,
+			"uuid": "1b24c4be-64fc-4644-91b4-f0a6efe8b5c7",
+			"companyName": "Bienias UG",
+			"catchPhrase": "Total 4th generation encryption",
+			"sector": "Agriculture",
+			"buzz": "syndicate one-to-one channels",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 352,
+			"uuid": "937f1d8a-2531-4c46-970b-0fe756597885",
+			"companyName": "Strohschank AG",
+			"catchPhrase": "Extended dedicated intranet",
+			"sector": "Finance",
+			"buzz": "incentivize global channels",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 353,
+			"uuid": "18a1831e-4610-487c-9836-1b04471cafd2",
+			"companyName": "Deja, Huebel und Jung",
+			"catchPhrase": "Seamless object-oriented focus group",
+			"sector": "Tourism",
+			"buzz": "strategize bricks-and-clicks experiences",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 354,
+			"uuid": "3ec38077-dd39-41d2-b5d6-4db8d03292a6",
+			"companyName": "Flottmann GmbH & Co. KG",
+			"catchPhrase": "Multi-channelled mission-critical array",
+			"sector": "Retail",
+			"buzz": "architect granular infrastructures",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 355,
+			"uuid": "39b121c3-bd5e-4f45-a4b0-998275e4a2e0",
+			"companyName": "Kahles OHG",
+			"catchPhrase": "Customer-focused modular software",
+			"sector": "Retail",
+			"buzz": "facilitate real-time niches",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 356,
+			"uuid": "0cb74554-04e6-4939-ba13-69b95e657821",
+			"companyName": "Gehre UG",
+			"catchPhrase": "Exclusive modular customer loyalty",
+			"sector": "Agriculture",
+			"buzz": "scale end-to-end functionalities",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 357,
+			"uuid": "68ab7b6e-fa18-401b-a88c-4cde07a7a092",
+			"companyName": "Zeidler, Terlecki und Terlecki",
+			"catchPhrase": "Profit-focused multimedia conglomeration",
+			"sector": "Craft",
+			"buzz": "mesh plug-and-play infrastructures",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 358,
+			"uuid": "1e93c99a-5b49-4298-8722-fd9eb4b5da95",
+			"companyName": "Kröger, Saile und Hepperle",
+			"catchPhrase": "Re-engineered client-server superstructure",
+			"sector": "Agriculture",
+			"buzz": "whiteboard ubiquitous solutions",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 359,
+			"uuid": "705b90c9-5911-4050-b573-9a1e19428538",
+			"companyName": "Rosksch-Daubner",
+			"catchPhrase": "Fully-configurable attitude-oriented adapter",
+			"sector": "Retail",
+			"buzz": "target transparent functionalities",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 360,
+			"uuid": "0ab8fedd-136c-4d35-a569-152be0aecc71",
+			"companyName": "Loska GmbH & Co. KG",
+			"catchPhrase": "Devolved heuristic capacity",
+			"sector": "Finance",
+			"buzz": "deploy seamless communities",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 361,
+			"uuid": "71046009-304a-4ae1-82ee-1d5069c9e093",
+			"companyName": "Oberem AG",
+			"catchPhrase": "Polarised fresh-thinking encoding",
+			"sector": "IT",
+			"buzz": "e-enable ubiquitous blockchains",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 362,
+			"uuid": "04da04ec-bf51-4a6a-bbc1-81de09e5ff4b",
+			"companyName": "Zender-Raabe",
+			"catchPhrase": "Self-enabling fault-tolerant circuit",
+			"sector": "Tourism",
+			"buzz": "benchmark e-business web services",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 363,
+			"uuid": "33ea3c94-dcf7-44ec-b8f4-8867df54cb31",
+			"companyName": "Klauder-Tuch",
+			"catchPhrase": "Streamlined interactive encoding",
+			"sector": "Construction",
+			"buzz": "repurpose bleeding-edge blockchains",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 364,
+			"uuid": "cbb350cc-a14c-4fdc-b5cc-eb845ed54bd5",
+			"companyName": "Förster, Maisch und Hargasser",
+			"catchPhrase": "Grass-roots radical projection",
+			"sector": "Construction",
+			"buzz": "engage cross-platform content",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 365,
+			"uuid": "bde4d55e-3951-43da-bb51-77e080ce4b4f",
+			"companyName": "Götz, Überacker und Borsch",
+			"catchPhrase": "Open-source modular concept",
+			"sector": "Craft",
+			"buzz": "envisioneer transparent functionalities",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 366,
+			"uuid": "dcc656f5-4929-45c2-af24-825c4ebd7b19",
+			"companyName": "Muller OHG",
+			"catchPhrase": "Triple-buffered methodical definition",
+			"sector": "Construction",
+			"buzz": "leverage ubiquitous e-business",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 367,
+			"uuid": "80fdea4d-c2ce-497e-88d7-4f6a293a512c",
+			"companyName": "Bielert, Banse und Stein",
+			"catchPhrase": "Horizontal secondary core",
+			"sector": "Construction",
+			"buzz": "recontextualize plug-and-play infrastructures",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 368,
+			"uuid": "ad46486e-2e28-4460-8052-10a0a47c7214",
+			"companyName": "Ranz GmbH & Co. KG",
+			"catchPhrase": "Cross-group zero tolerance orchestration",
+			"sector": "IT",
+			"buzz": "facilitate world-class web services",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 369,
+			"uuid": "5ecca5a4-7ca0-44ba-9e3d-eae25e97392c",
+			"companyName": "Ripken, Laws und Leo",
+			"catchPhrase": "Multi-channelled 3rd generation matrix",
+			"sector": "Craft",
+			"buzz": "orchestrate B2C e-commerce",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 370,
+			"uuid": "822f043a-5420-4c6f-a51b-3ad48082d1a5",
+			"companyName": "Zaituc, Rautenkranz und Rosksch",
+			"catchPhrase": "Extended bifurcated budgetary management",
+			"sector": "IT",
+			"buzz": "facilitate end-to-end channels",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 371,
+			"uuid": "58f9d5f1-282d-45c7-8564-3c2168deb5ab",
+			"companyName": "Mai, Michel und Zender",
+			"catchPhrase": "Phased executive analyzer",
+			"sector": "Agriculture",
+			"buzz": "cultivate dynamic experiences",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 372,
+			"uuid": "62e232b1-d265-4769-856e-0cb796f22860",
+			"companyName": "Daimer-Hügel",
+			"catchPhrase": "Proactive actuating projection",
+			"sector": "IT",
+			"buzz": "implement visionary e-services",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 373,
+			"uuid": "b7f259a5-324b-408b-a02a-6a87bac839a8",
+			"companyName": "Schroder Gruppe",
+			"catchPhrase": "Fully-configurable uniform website",
+			"sector": "Retail",
+			"buzz": "extend bleeding-edge bandwidth",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 374,
+			"uuid": "e2ca7a06-e391-4cbe-963c-137096aa6ba0",
+			"companyName": "Beck GmbH & Co. KG",
+			"catchPhrase": "Optimized next generation moderator",
+			"sector": "Finance",
+			"buzz": "implement ubiquitous interfaces",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 375,
+			"uuid": "f66cfc4f-3f5a-415c-bf5d-8783dd0d9426",
+			"companyName": "Schmidtchen-Brauer",
+			"catchPhrase": "Automated client-server archive",
+			"sector": "IT",
+			"buzz": "implement dot-com platforms",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 376,
+			"uuid": "6f874115-ea22-47ff-aea2-829f3cc53752",
+			"companyName": "Zimmer GmbH & Co. KG",
+			"catchPhrase": "Multi-layered disintermediate adapter",
+			"sector": "Finance",
+			"buzz": "extend turn-key action-items",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 377,
+			"uuid": "be7aabc6-6037-4cd2-88fc-90cc1fd01e99",
+			"companyName": "Böttner, Busse und Adams",
+			"catchPhrase": "Adaptive executive Graphical User Interface",
+			"sector": "Tourism",
+			"buzz": "engage sexy communities",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 378,
+			"uuid": "04a400d9-a563-464a-8047-0ad2464c449b",
+			"companyName": "Jahnke-Haaf",
+			"catchPhrase": "User-centric empowering neural-net",
+			"sector": "IT",
+			"buzz": "iterate ubiquitous applications",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 379,
+			"uuid": "f7891722-cfc2-4503-9a8f-18af50f13dfd",
+			"companyName": "Tafelmeier, Badane und Schley",
+			"catchPhrase": "Reduced coherent definition",
+			"sector": "Retail",
+			"buzz": "exploit rich niches",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 380,
+			"uuid": "c5c8813a-964d-4e1b-80b9-39555121edd7",
+			"companyName": "Gastel UG",
+			"catchPhrase": "Triple-buffered motivating approach",
+			"sector": "Finance",
+			"buzz": "visualize value-added blockchains",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 381,
+			"uuid": "25d3346e-3972-4114-8fc2-1000d14a0580",
+			"companyName": "Birkemeyer, Sievers und Daimer",
+			"catchPhrase": "Right-sized optimizing parallelism",
+			"sector": "Craft",
+			"buzz": "whiteboard scalable schemas",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 382,
+			"uuid": "df666f48-34d8-4723-bd61-427f731b5d28",
+			"companyName": "Holzner, Götzelmann und Kleiss",
+			"catchPhrase": "Right-sized high-level encryption",
+			"sector": "IT",
+			"buzz": "synergize B2B schemas",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 383,
+			"uuid": "d3a8609b-979b-4919-b45e-31b0988ad326",
+			"companyName": "Effler Gruppe",
+			"catchPhrase": "Front-line tangible contingency",
+			"sector": "Retail",
+			"buzz": "disintermediate synergistic technologies",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 384,
+			"uuid": "909c90b5-f6ce-4329-a737-f2b781e33f3b",
+			"companyName": "Pflieger UG",
+			"catchPhrase": "Horizontal transitional architecture",
+			"sector": "Retail",
+			"buzz": "matrix synergistic metrics",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 385,
+			"uuid": "1a586047-2b6d-42e0-a3b3-8fc605e8c6c2",
+			"companyName": "Köhre GmbH",
+			"catchPhrase": "Public-key even-keeled customer loyalty",
+			"sector": "Craft",
+			"buzz": "expedite impactful deliverables",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 386,
+			"uuid": "ba6c8200-98c8-4a42-b026-c882a36920d9",
+			"companyName": "Dreissigacker, Aschenbroich und Tafelmeier",
+			"catchPhrase": "Extended interactive implementation",
+			"sector": "Agriculture",
+			"buzz": "brand compelling mindshare",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 387,
+			"uuid": "e3133c04-a3f3-4723-9feb-0f0c073e6730",
+			"companyName": "Koj-Hommel",
+			"catchPhrase": "Enterprise-wide motivating Graphical User Interface",
+			"sector": "Agriculture",
+			"buzz": "visualize plug-and-play markets",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 388,
+			"uuid": "aa248505-3d24-4076-8e96-9ebdb8880c59",
+			"companyName": "Beele, Mues und Pietsch",
+			"catchPhrase": "Stand-alone human-resource initiative",
+			"sector": "IT",
+			"buzz": "incentivize 24/365 methodologies",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 389,
+			"uuid": "d09b6d50-0051-478e-82df-ee66aba3d6b0",
+			"companyName": "Hamann, Erdmann und Schlangen",
+			"catchPhrase": "Expanded holistic productivity",
+			"sector": "Tourism",
+			"buzz": "morph dynamic methodologies",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 390,
+			"uuid": "fd9f4b41-5687-4896-bdee-58a35b67b8e1",
+			"companyName": "Kühn OHG",
+			"catchPhrase": "Integrated dynamic initiative",
+			"sector": "Retail",
+			"buzz": "engineer scalable niches",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 391,
+			"uuid": "9e8777e0-acec-4585-ae61-858dd80540f4",
+			"companyName": "Rach, Danner und Strunz",
+			"catchPhrase": "Distributed value-added migration",
+			"sector": "Agriculture",
+			"buzz": "orchestrate best-of-breed systems",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 392,
+			"uuid": "099db335-1379-4beb-87e7-abdba1715e70",
+			"companyName": "Scheytt, Scheurer und Stengel",
+			"catchPhrase": "Optional demand-driven projection",
+			"sector": "Construction",
+			"buzz": "expedite e-business partnerships",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 393,
+			"uuid": "c858af18-cb1b-49df-9dac-d0b039dc528b",
+			"companyName": "Kölotzei AG",
+			"catchPhrase": "Synchronised multi-tasking throughput",
+			"sector": "IT",
+			"buzz": "integrate wireless platforms",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 394,
+			"uuid": "39a8a2ba-fdf3-4796-af84-ec1c03afa743",
+			"companyName": "Sokolowski KG",
+			"catchPhrase": "Versatile dedicated project",
+			"sector": "Agriculture",
+			"buzz": "visualize out-of-the-box solutions",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 395,
+			"uuid": "1226dc1a-72d4-4adf-bab6-cd2f629a1cdb",
+			"companyName": "Rohländer, Jambor und Berger",
+			"catchPhrase": "Mandatory composite policy",
+			"sector": "IT",
+			"buzz": "synergize distributed solutions",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 396,
+			"uuid": "b8876cf8-7e0e-4ef3-a4c6-16b943ee143d",
+			"companyName": "Blockhaus-Ghosh",
+			"catchPhrase": "De-engineered attitude-oriented success",
+			"sector": "Agriculture",
+			"buzz": "facilitate transparent vortals",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 397,
+			"uuid": "1f5124b5-9056-43ce-9ddb-6df7fa249e01",
+			"companyName": "Golomski-Dück",
+			"catchPhrase": "Customizable discrete database",
+			"sector": "Tourism",
+			"buzz": "enhance global e-commerce",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 398,
+			"uuid": "22b172ce-e786-4046-b665-609d0df2ca94",
+			"companyName": "Rücker GmbH & Co. KG",
+			"catchPhrase": "Robust discrete instruction set",
+			"sector": "Craft",
+			"buzz": "exploit proactive e-markets",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 399,
+			"uuid": "70b97822-ce17-45e6-b676-262144aca252",
+			"companyName": "Herbrand-Salzer",
+			"catchPhrase": "Open-source logistical capability",
+			"sector": "Finance",
+			"buzz": "facilitate viral ROI",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 400,
+			"uuid": "7ea03d82-7567-4a5a-a36e-b8a5481be465",
+			"companyName": "Kreissig, Kruger und Kopf",
+			"catchPhrase": "Configurable full-range data-warehouse",
+			"sector": "Construction",
+			"buzz": "benchmark robust applications",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 401,
+			"uuid": "c32bd4db-4139-4ec8-babe-825fc8535372",
+			"companyName": "Keiner-Crews",
+			"catchPhrase": "Re-engineered intermediate groupware",
+			"sector": "Tourism",
+			"buzz": "matrix innovative e-services",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 402,
+			"uuid": "a485ab14-4dac-42c9-9790-f94c4d437df9",
+			"companyName": "Meier-Marx",
+			"catchPhrase": "Extended encompassing help-desk",
+			"sector": "Construction",
+			"buzz": "synergize interactive solutions",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 403,
+			"uuid": "a6005945-22af-42df-9765-2121ed28b5e3",
+			"companyName": "Frohn-Bielert",
+			"catchPhrase": "Devolved dynamic capacity",
+			"sector": "Craft",
+			"buzz": "visualize front-end architectures",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 404,
+			"uuid": "66ddf5d7-37ba-48e4-852d-ac4437f36389",
+			"companyName": "Hengmith Gruppe",
+			"catchPhrase": "Centralized global extranet",
+			"sector": "Retail",
+			"buzz": "aggregate transparent experiences",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 405,
+			"uuid": "d4db7588-69ca-4b58-9073-4a7fc6c8c9ff",
+			"companyName": "Stolle AG",
+			"catchPhrase": "Inverse asynchronous methodology",
+			"sector": "Tourism",
+			"buzz": "drive dot-com e-services",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 406,
+			"uuid": "2a9954de-9ff7-48ba-9abf-83fe515a801c",
+			"companyName": "Stöckert-Abraham",
+			"catchPhrase": "Devolved disintermediate process improvement",
+			"sector": "Construction",
+			"buzz": "target clicks-and-mortar technologies",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 407,
+			"uuid": "4f9f9a1a-983b-40ce-8176-71fa62ac68ce",
+			"companyName": "Pressler-Hugo",
+			"catchPhrase": "Synergistic encompassing policy",
+			"sector": "Craft",
+			"buzz": "integrate innovative bandwidth",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 408,
+			"uuid": "574d54fe-01ac-4fdc-9fdd-80c14e9410d4",
+			"companyName": "Stolle, Molzan und Paschke",
+			"catchPhrase": "Proactive background monitoring",
+			"sector": "Retail",
+			"buzz": "seize extensible niches",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 409,
+			"uuid": "4494ee44-9be9-428c-b7f9-0343bfd0f3d3",
+			"companyName": "Schuster-Co",
+			"catchPhrase": "Up-sized 24/7 project",
+			"sector": "Craft",
+			"buzz": "harness e-business e-services",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 410,
+			"uuid": "35d4ac17-4833-4b9d-91cf-ee92b1ee6dab",
+			"companyName": "Plass AG",
+			"catchPhrase": "Ergonomic 6th generation groupware",
+			"sector": "Agriculture",
+			"buzz": "harness innovative architectures",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 411,
+			"uuid": "26706b78-bf14-4e6e-932a-e6526a3d1a9d",
+			"companyName": "Kaesmacher, Geissler und Weber",
+			"catchPhrase": "Decentralized fault-tolerant matrix",
+			"sector": "Construction",
+			"buzz": "generate distributed partnerships",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 412,
+			"uuid": "42da4ae0-2e7e-4059-9971-5746264e6e0b",
+			"companyName": "Koehl-Blank",
+			"catchPhrase": "Customer-focused 24 hour data-warehouse",
+			"sector": "IT",
+			"buzz": "harness real-time e-business",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 413,
+			"uuid": "f5137b0f-4af8-4d82-b14e-ad8a9c12b8c0",
+			"companyName": "Margis UG",
+			"catchPhrase": "Future-proofed web-enabled local area network",
+			"sector": "Retail",
+			"buzz": "transform leading-edge platforms",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 414,
+			"uuid": "81cc20ab-5d34-4e86-bd5f-dc71247c12fa",
+			"companyName": "Hort, Szendrei und Hartwig",
+			"catchPhrase": "Implemented full-range solution",
+			"sector": "Agriculture",
+			"buzz": "enhance virtual platforms",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 415,
+			"uuid": "15206f2b-e168-440f-86a6-31a1c1090d64",
+			"companyName": "Steinecke, Kubera und Mühleis",
+			"catchPhrase": "Reduced grid-enabled array",
+			"sector": "Tourism",
+			"buzz": "benchmark best-of-breed supply-chains",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 416,
+			"uuid": "40ea1bcb-80b3-45bc-a9e2-18c103e5c49a",
+			"companyName": "Kuhlee, Herms und Cordes",
+			"catchPhrase": "Front-line intangible standardization",
+			"sector": "Construction",
+			"buzz": "incubate mission-critical interfaces",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 417,
+			"uuid": "2f851333-e2d2-4ef3-bb72-d1aa1b0577de",
+			"companyName": "Gaba Gruppe",
+			"catchPhrase": "Pre-emptive asymmetric throughput",
+			"sector": "Retail",
+			"buzz": "utilize intuitive metrics",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 418,
+			"uuid": "1e4f430b-5e73-497e-96fb-be7bb3c5e577",
+			"companyName": "Siemon AG",
+			"catchPhrase": "Upgradable cohesive productivity",
+			"sector": "Construction",
+			"buzz": "recontextualize enterprise synergies",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 419,
+			"uuid": "813b0069-c5e2-4531-b1fd-f4e6d11ae15d",
+			"companyName": "Schwatlo, Dreier und Roggatz",
+			"catchPhrase": "Function-based homogeneous concept",
+			"sector": "Tourism",
+			"buzz": "seize transparent web services",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 420,
+			"uuid": "403f7525-0c8b-4046-802a-08e70dada3fc",
+			"companyName": "Blassneck-Betz",
+			"catchPhrase": "Managed bottom-line service-desk",
+			"sector": "Tourism",
+			"buzz": "brand front-end functionalities",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 421,
+			"uuid": "37153daf-699a-4a21-b42c-a26b5769e46a",
+			"companyName": "Kruschinski AG",
+			"catchPhrase": "Universal 24 hour implementation",
+			"sector": "IT",
+			"buzz": "leverage interactive supply-chains",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 422,
+			"uuid": "80365b9a-93d2-4250-99cf-e7f35a650c1a",
+			"companyName": "Markowski AG",
+			"catchPhrase": "Centralized well-modulated monitoring",
+			"sector": "Tourism",
+			"buzz": "generate world-class functionalities",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 423,
+			"uuid": "5e4fa470-7a5b-49fd-8425-1c0295b22051",
+			"companyName": "Nagel KG",
+			"catchPhrase": "Persistent context-sensitive structure",
+			"sector": "Tourism",
+			"buzz": "syndicate distributed deliverables",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 424,
+			"uuid": "51f98742-8a2c-4fdb-9323-010d383ad7c0",
+			"companyName": "Rapp-Denzinger",
+			"catchPhrase": "Adaptive uniform software",
+			"sector": "Agriculture",
+			"buzz": "target impactful models",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 425,
+			"uuid": "2c3a2aac-2c34-4eaf-a8cb-d90d3e5aeabd",
+			"companyName": "Diedrich GmbH & Co. KG",
+			"catchPhrase": "Synergized 5th generation groupware",
+			"sector": "Agriculture",
+			"buzz": "embrace transparent applications",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 426,
+			"uuid": "cc77f9b3-7225-4e16-acfd-ed61d943a5ad",
+			"companyName": "Streck, Wehrsen und Jahn",
+			"catchPhrase": "Enterprise-wide multimedia emulation",
+			"sector": "IT",
+			"buzz": "harness strategic e-business",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 427,
+			"uuid": "fc68f196-57a1-49ac-af8e-1f7a0f2224ae",
+			"companyName": "Brandis, Renz und Wallner",
+			"catchPhrase": "De-engineered upward-trending attitude",
+			"sector": "IT",
+			"buzz": "generate value-added relationships",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 428,
+			"uuid": "1c0f6619-ac5c-4c81-939a-a2789e84be70",
+			"companyName": "Riediger-Pflieger",
+			"catchPhrase": "Robust systematic framework",
+			"sector": "Craft",
+			"buzz": "implement next-generation action-items",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 429,
+			"uuid": "1cbf61b6-d793-44de-ac74-fd7f6c0e38c8",
+			"companyName": "Vontein GmbH",
+			"catchPhrase": "Reverse-engineered intangible open architecture",
+			"sector": "IT",
+			"buzz": "mesh best-of-breed eyeballs",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 430,
+			"uuid": "29f4925d-fa2c-4d39-8fa5-0c3b0b5c490e",
+			"companyName": "Ringer KG",
+			"catchPhrase": "Ameliorated zero tolerance capacity",
+			"sector": "Tourism",
+			"buzz": "benchmark dynamic models",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 431,
+			"uuid": "e77e6988-046f-41aa-968d-3832f43b31a5",
+			"companyName": "Ringer GmbH & Co. KG",
+			"catchPhrase": "Seamless disintermediate methodology",
+			"sector": "Retail",
+			"buzz": "brand next-generation users",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 432,
+			"uuid": "b1db4e6a-15ad-437b-8195-16dbbe035c1c",
+			"companyName": "Roggatz, Cors und Ahrens",
+			"catchPhrase": "Vision-oriented tertiary focus group",
+			"sector": "Retail",
+			"buzz": "morph wireless models",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 433,
+			"uuid": "7ed77584-fb40-4553-a01d-306787a0db0a",
+			"companyName": "Kesselring, Gombert und Bäcker",
+			"catchPhrase": "Diverse methodical matrix",
+			"sector": "Finance",
+			"buzz": "unleash innovative deliverables",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 434,
+			"uuid": "a4a2748b-fe0d-4789-ae02-1c34a774669b",
+			"companyName": "Adam KG",
+			"catchPhrase": "Automated national firmware",
+			"sector": "Retail",
+			"buzz": "drive magnetic communities",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 435,
+			"uuid": "94a41f15-0965-4375-a112-c0992fc97013",
+			"companyName": "Agostini-Melzer",
+			"catchPhrase": "Vision-oriented contextually-based customer loyalty",
+			"sector": "Retail",
+			"buzz": "benchmark integrated infrastructures",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 436,
+			"uuid": "5121ba7b-05b0-42a7-8d3b-ea142ce279c1",
+			"companyName": "Priemer-Naubert",
+			"catchPhrase": "Focused upward-trending policy",
+			"sector": "Retail",
+			"buzz": "enhance B2B niches",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 437,
+			"uuid": "9f5d10f3-9ce7-44cd-becd-ae0540b978d7",
+			"companyName": "Kelm AG",
+			"catchPhrase": "Team-oriented exuding interface",
+			"sector": "Agriculture",
+			"buzz": "brand customized niches",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 438,
+			"uuid": "04dfbc7e-5ee7-43db-8e2b-b8b602faf51b",
+			"companyName": "Heidelmann AG",
+			"catchPhrase": "Vision-oriented reciprocal groupware",
+			"sector": "Craft",
+			"buzz": "architect revolutionary partnerships",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 439,
+			"uuid": "9b31bd59-ac45-4581-873e-8d787d0a7117",
+			"companyName": "Nytra OHG",
+			"catchPhrase": "Diverse foreground moratorium",
+			"sector": "Tourism",
+			"buzz": "mesh next-generation portals",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 440,
+			"uuid": "bc105103-bdb1-44ee-b246-2af393c42d3e",
+			"companyName": "Gastel-Jahnke",
+			"catchPhrase": "Decentralized bottom-line interface",
+			"sector": "Craft",
+			"buzz": "incentivize intuitive ROI",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 441,
+			"uuid": "06a4884b-ccd2-4783-8f87-c3afbe4d0b95",
+			"companyName": "Kohle UG",
+			"catchPhrase": "Streamlined non-volatile alliance",
+			"sector": "Agriculture",
+			"buzz": "innovate innovative infrastructures",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 442,
+			"uuid": "4a904c64-6b3f-438f-a91f-ab53b5e6b300",
+			"companyName": "Gruber-Noack",
+			"catchPhrase": "Grass-roots eco-centric customer loyalty",
+			"sector": "Tourism",
+			"buzz": "harness cross-platform mindshare",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 443,
+			"uuid": "f0fa5d34-ae8c-44cd-980a-a01c4e9d87ae",
+			"companyName": "Dauth, Henkel und Deuschle",
+			"catchPhrase": "Optimized local encoding",
+			"sector": "IT",
+			"buzz": "productize wireless synergies",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 444,
+			"uuid": "fafef918-9b6d-4e03-8082-cbcb246e8dac",
+			"companyName": "Breuer UG",
+			"catchPhrase": "Configurable cohesive matrix",
+			"sector": "Agriculture",
+			"buzz": "innovate world-class paradigms",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 445,
+			"uuid": "7e5bdb96-36ef-47b3-9a11-1e135cdb7fe8",
+			"companyName": "Reinberg OHG",
+			"catchPhrase": "Focused high-level leverage",
+			"sector": "Construction",
+			"buzz": "strategize sticky communities",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 446,
+			"uuid": "ce3e1475-8e45-4e1b-9b24-9dd48e04f8cd",
+			"companyName": "Busse-Stube",
+			"catchPhrase": "Self-enabling content-based frame",
+			"sector": "Retail",
+			"buzz": "target back-end mindshare",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 447,
+			"uuid": "2bd27135-ce8d-4a8c-856b-68468f579331",
+			"companyName": "Elbe, Liebich und Reif",
+			"catchPhrase": "Mandatory bifurcated Graphic Interface",
+			"sector": "Tourism",
+			"buzz": "iterate compelling web services",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 448,
+			"uuid": "8e704649-aed8-4eb4-87d8-715897fbc1de",
+			"companyName": "Stein, Grün und Tudow",
+			"catchPhrase": "Innovative systemic core",
+			"sector": "Tourism",
+			"buzz": "benchmark intuitive content",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 449,
+			"uuid": "8fc69ec8-b44e-4cf5-aa6c-67ee2bd481ea",
+			"companyName": "Leschnik-Mau",
+			"catchPhrase": "User-friendly tangible help-desk",
+			"sector": "IT",
+			"buzz": "e-enable ubiquitous schemas",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 450,
+			"uuid": "2fc5f80f-32f3-4628-9668-094e07885e01",
+			"companyName": "Schilling-Kopf",
+			"catchPhrase": "Down-sized secondary firmware",
+			"sector": "Finance",
+			"buzz": "envisioneer synergistic ROI",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 451,
+			"uuid": "00d77d29-7d0c-4a69-8cf9-cb05794d68a9",
+			"companyName": "Freimann AG",
+			"catchPhrase": "Virtual leading edge data-warehouse",
+			"sector": "Agriculture",
+			"buzz": "benchmark integrated architectures",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 452,
+			"uuid": "e4cec0b2-b177-464e-a871-68d5867a70df",
+			"companyName": "Schielke, Schäning und Frauen",
+			"catchPhrase": "Streamlined needs-based architecture",
+			"sector": "Craft",
+			"buzz": "engage cross-media experiences",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 453,
+			"uuid": "04804986-86ed-4d5a-b063-d3f2f839fed3",
+			"companyName": "Cornelsen OHG",
+			"catchPhrase": "Persistent national circuit",
+			"sector": "Craft",
+			"buzz": "synergize innovative e-markets",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 454,
+			"uuid": "d9793cda-3771-401e-82db-66e8f85a1dd1",
+			"companyName": "Lenk, Gamlin und Kausemann",
+			"catchPhrase": "Advanced value-added flexibility",
+			"sector": "Construction",
+			"buzz": "incubate leading-edge bandwidth",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 455,
+			"uuid": "d599b5c5-8bb6-4bd4-82cd-4b167ebf2632",
+			"companyName": "Gerhardt OHG",
+			"catchPhrase": "Virtual human-resource throughput",
+			"sector": "Agriculture",
+			"buzz": "recontextualize visionary paradigms",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 456,
+			"uuid": "153b8b45-62d4-49cb-989e-5c2fdf6958b1",
+			"companyName": "Norris, Geese und Tasche",
+			"catchPhrase": "Reactive mobile time-frame",
+			"sector": "IT",
+			"buzz": "synergize clicks-and-mortar methodologies",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 457,
+			"uuid": "e2b2e7eb-33a4-44cd-8fbb-7b4d2ebb6532",
+			"companyName": "Brauer-Herms",
+			"catchPhrase": "Assimilated holistic functionalities",
+			"sector": "Craft",
+			"buzz": "revolutionize best-of-breed networks",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 458,
+			"uuid": "4d854f02-a5a2-4523-bfda-a62650cb8d31",
+			"companyName": "Zanner UG",
+			"catchPhrase": "Optional client-driven portal",
+			"sector": "Craft",
+			"buzz": "cultivate value-added synergies",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 459,
+			"uuid": "169e1f44-f4a3-42a9-b792-933cc0af8064",
+			"companyName": "Häber, Kampschulte und Soboll",
+			"catchPhrase": "Innovative demand-driven application",
+			"sector": "Agriculture",
+			"buzz": "disintermediate bleeding-edge infrastructures",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 460,
+			"uuid": "6e3b677a-9c5c-4502-b5de-957717fcf0cc",
+			"companyName": "Mathiszik Gruppe",
+			"catchPhrase": "Programmable 24 hour open architecture",
+			"sector": "IT",
+			"buzz": "empower clicks-and-mortar functionalities",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 461,
+			"uuid": "c6973b36-0961-4386-88cf-5dd8370eb71a",
+			"companyName": "Nannen, Karsten und Bultmann",
+			"catchPhrase": "Balanced 4th generation circuit",
+			"sector": "Retail",
+			"buzz": "synergize value-added experiences",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 462,
+			"uuid": "13801f45-3c40-4047-8337-315fe86cf2ce",
+			"companyName": "Beavogui, Weidner und Ullmann",
+			"catchPhrase": "Reverse-engineered composite data-warehouse",
+			"sector": "Finance",
+			"buzz": "aggregate dynamic e-markets",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 463,
+			"uuid": "5bac3249-498e-49bb-b53a-29700488895a",
+			"companyName": "Maurer, Koester und Steinecke",
+			"catchPhrase": "Reactive eco-centric solution",
+			"sector": "Construction",
+			"buzz": "morph virtual infomediaries",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 464,
+			"uuid": "76244189-8fb6-45f3-b848-fadf453ccbd0",
+			"companyName": "Zeidler-Steinmetz",
+			"catchPhrase": "Compatible systemic help-desk",
+			"sector": "Construction",
+			"buzz": "implement innovative bandwidth",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 465,
+			"uuid": "dfe767c1-6721-4ced-b913-2ba33d8d13a2",
+			"companyName": "Ne GmbH & Co. KG",
+			"catchPhrase": "Multi-lateral system-worthy matrices",
+			"sector": "Retail",
+			"buzz": "productize 24/365 functionalities",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 466,
+			"uuid": "e0baa5da-c634-4c1c-8d15-36ab8b02472d",
+			"companyName": "Lindenmayer GmbH",
+			"catchPhrase": "Ameliorated object-oriented open architecture",
+			"sector": "Retail",
+			"buzz": "seize synergistic methodologies",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 467,
+			"uuid": "0f2766d1-b9c0-494e-b88b-31471673c815",
+			"companyName": "Dahm-Bienias",
+			"catchPhrase": "Multi-channelled full-range functionalities",
+			"sector": "Agriculture",
+			"buzz": "brand leading-edge blockchains",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 468,
+			"uuid": "448c27f1-5be9-4d23-ab42-d6388ac282d4",
+			"companyName": "Matthes-Apitz",
+			"catchPhrase": "Grass-roots clear-thinking function",
+			"sector": "Tourism",
+			"buzz": "redefine cutting-edge synergies",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 469,
+			"uuid": "8b9b02b5-a664-45cb-946e-fbbe7fcec6d1",
+			"companyName": "Straub OHG",
+			"catchPhrase": "Reduced explicit internet solution",
+			"sector": "Agriculture",
+			"buzz": "benchmark plug-and-play e-markets",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 470,
+			"uuid": "0cc48f85-fe16-4c84-a6da-4253d8294751",
+			"companyName": "Frantz GmbH & Co. KG",
+			"catchPhrase": "Reduced zero administration hardware",
+			"sector": "Craft",
+			"buzz": "streamline frictionless platforms",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 471,
+			"uuid": "c117708a-2d22-4914-a680-b2a0d7c53b7c",
+			"companyName": "Bak-Betz",
+			"catchPhrase": "Up-sized dedicated focus group",
+			"sector": "Construction",
+			"buzz": "engage 24/7 models",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 472,
+			"uuid": "cca7e6fb-f109-4e85-a115-4437c1957abd",
+			"companyName": "Gotz-Grötzinger",
+			"catchPhrase": "Object-based full-range data-warehouse",
+			"sector": "Construction",
+			"buzz": "matrix front-end metrics",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 473,
+			"uuid": "bc3523b2-33ec-4fe5-92e6-bba3f95e1fc5",
+			"companyName": "Kemper AG",
+			"catchPhrase": "Right-sized 4th generation approach",
+			"sector": "Agriculture",
+			"buzz": "incubate vertical schemas",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 474,
+			"uuid": "dad3441c-d4ef-4d53-8509-8edeb6cebbcf",
+			"companyName": "Hördt, Hentschke und Sinnhuber",
+			"catchPhrase": "Optimized well-modulated utilisation",
+			"sector": "Agriculture",
+			"buzz": "leverage visionary methodologies",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 475,
+			"uuid": "424fdd98-ae4f-43fe-8aff-8d443fa4e6f3",
+			"companyName": "Kohrt GmbH & Co. KG",
+			"catchPhrase": "Versatile systematic array",
+			"sector": "Retail",
+			"buzz": "evolve e-business web-readiness",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 476,
+			"uuid": "d65bdb0e-8642-491e-9586-5d2effa39c51",
+			"companyName": "Ullrich-Mensah",
+			"catchPhrase": "Multi-channelled empowering core",
+			"sector": "IT",
+			"buzz": "iterate wireless users",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 477,
+			"uuid": "2151b173-597d-49ad-98ba-d6652ca46b7e",
+			"companyName": "Eberhard-Otte",
+			"catchPhrase": "Visionary real-time neural-net",
+			"sector": "Retail",
+			"buzz": "strategize wireless applications",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 478,
+			"uuid": "0ec7566c-2ed5-470c-8728-1d49080461f3",
+			"companyName": "Kohlmann, Hache und Volkmann",
+			"catchPhrase": "Integrated 6th generation projection",
+			"sector": "IT",
+			"buzz": "reintermediate out-of-the-box architectures",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 479,
+			"uuid": "4eb95b3e-baca-4e9b-a9a5-d3f1c631aaba",
+			"companyName": "Winkler AG",
+			"catchPhrase": "Organic actuating moderator",
+			"sector": "Retail",
+			"buzz": "benchmark scalable supply-chains",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 480,
+			"uuid": "6a39a3c2-9be8-4603-94ff-f6a69e184be2",
+			"companyName": "Hermecke-Blochwitz",
+			"catchPhrase": "Compatible high-level adapter",
+			"sector": "Construction",
+			"buzz": "deliver seamless web-readiness",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 481,
+			"uuid": "d7a6c791-cee5-4cd3-aafd-3c8c5939bffa",
+			"companyName": "Gollnow UG",
+			"catchPhrase": "Centralized asynchronous flexibility",
+			"sector": "Tourism",
+			"buzz": "redefine world-class web services",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 482,
+			"uuid": "df800290-72c2-46ab-8bff-79c67cbeec76",
+			"companyName": "Hauke, Münch und Hessek",
+			"catchPhrase": "Multi-layered object-oriented encoding",
+			"sector": "Craft",
+			"buzz": "synergize compelling experiences",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 483,
+			"uuid": "e4e42d88-b416-4ba2-bd35-e4081a55a472",
+			"companyName": "Knut GmbH",
+			"catchPhrase": "Horizontal clear-thinking moderator",
+			"sector": "Craft",
+			"buzz": "grow holistic eyeballs",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 484,
+			"uuid": "bc1f5fc9-199d-481a-84ca-7095f290adb9",
+			"companyName": "Kwadwo-Gerschler",
+			"catchPhrase": "Object-based regional project",
+			"sector": "Construction",
+			"buzz": "enable back-end niches",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 485,
+			"uuid": "b9a31b7b-97b7-497d-975c-e0c8db51f96d",
+			"companyName": "Scharf, Kurschilgen und Adams",
+			"catchPhrase": "Upgradable zero defect approach",
+			"sector": "Tourism",
+			"buzz": "deliver plug-and-play e-services",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 486,
+			"uuid": "36e93c6b-1629-4a34-a2cf-959f7cc54242",
+			"companyName": "Balnuweit, Braun und Bielert",
+			"catchPhrase": "Exclusive upward-trending pricing structure",
+			"sector": "Agriculture",
+			"buzz": "enhance vertical experiences",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 487,
+			"uuid": "5d2aa46f-9fb3-417b-93b7-b1954ac8af16",
+			"companyName": "Schütze AG",
+			"catchPhrase": "Grass-roots dedicated standardization",
+			"sector": "Construction",
+			"buzz": "monetize frictionless solutions",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 488,
+			"uuid": "66f46aec-5fe5-4d6c-a271-15a92f7c0c54",
+			"companyName": "Albert-Bogenrieder",
+			"catchPhrase": "Switchable 4th generation analyzer",
+			"sector": "Tourism",
+			"buzz": "reinvent proactive markets",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 489,
+			"uuid": "7b76bf2c-07e0-4176-978c-1f19ccf96359",
+			"companyName": "Herwig OHG",
+			"catchPhrase": "Synergized grid-enabled access",
+			"sector": "Craft",
+			"buzz": "target extensible partnerships",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 490,
+			"uuid": "1b43c8b8-02b2-408d-957d-b6277d4bb914",
+			"companyName": "Salzmann-Tischler",
+			"catchPhrase": "Streamlined demand-driven utilisation",
+			"sector": "Construction",
+			"buzz": "grow enterprise solutions",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 491,
+			"uuid": "0d5f009c-7112-49ed-9890-fced924b78f8",
+			"companyName": "Mordhorst KG",
+			"catchPhrase": "Multi-channelled human-resource local area network",
+			"sector": "Construction",
+			"buzz": "enhance proactive content",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 492,
+			"uuid": "77a29cc2-02d2-472f-a6a0-61b7f8fa9baf",
+			"companyName": "Mauroff-Kleiss",
+			"catchPhrase": "Virtual composite knowledge user",
+			"sector": "Retail",
+			"buzz": "streamline strategic portals",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 493,
+			"uuid": "1962ab94-0f07-442c-bb68-ff32b70afc44",
+			"companyName": "Drees AG",
+			"catchPhrase": "De-engineered motivating circuit",
+			"sector": "Construction",
+			"buzz": "envisioneer sexy portals",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 494,
+			"uuid": "1b96a038-90f6-47d6-bcc0-cfd4e32f9c7a",
+			"companyName": "Koha, Ullrich und Liebich",
+			"catchPhrase": "Fully-configurable 4th generation service-desk",
+			"sector": "Tourism",
+			"buzz": "productize front-end channels",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 495,
+			"uuid": "35ce3426-1047-4769-b5fa-5bc7f073123d",
+			"companyName": "Ziegler-Rose",
+			"catchPhrase": "Realigned logistical workforce",
+			"sector": "Finance",
+			"buzz": "synthesize frictionless metrics",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 496,
+			"uuid": "0bb23c73-74fd-47fc-8950-83ea19a87897",
+			"companyName": "Welzel-Zeyen",
+			"catchPhrase": "Quality-focused bi-directional structure",
+			"sector": "Agriculture",
+			"buzz": "matrix intuitive e-commerce",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 497,
+			"uuid": "863841c0-7c96-499f-903e-163d7413b82b",
+			"companyName": "Reinberg-Liebich",
+			"catchPhrase": "User-friendly zero tolerance focus group",
+			"sector": "Agriculture",
+			"buzz": "transition rich platforms",
+			"maybe": "Our company has 20 employees!",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 498,
+			"uuid": "ae70af6b-041d-4f2b-a232-1ed14c74ee1c",
+			"companyName": "Menga GmbH",
+			"catchPhrase": "Digitized tangible standardization",
+			"sector": "Finance",
+			"buzz": "embrace efficient networks",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		},
+		{
+			"id": 499,
+			"uuid": "6e9cc4e7-e901-402d-98eb-c00f69528900",
+			"companyName": "Porth-Umbach",
+			"catchPhrase": "Virtual demand-driven Graphic Interface",
+			"sector": "Retail",
+			"buzz": "incubate world-class applications",
+			"companyLogo": "https://loremflickr.com/800/600/logo"
+		}
+	]
+}
