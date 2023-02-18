@@ -28,35 +28,34 @@
             </l:ResponsiveFlowLayout>
 
             <Label id="glLabel" text="Grid Layout props span indent linebreak hspacing vspacing" />
-            <l:Grid id="inGrid" width="80%">
-                <l:content>
-                    <Image id="pImage" src="https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1158.jpg">
-                        <layoutData>
-                            <l:GridData span="xl12 L12 M12 S12" />
-                        </layoutData>
-                    </Image>
-                    <Label text="Vorname">
-                        <layoutData>
-                            <l:GridData span="xl6 L6 M12 S12" />
-                        </layoutData>
-                    </Label>
-                    <Text text="{/firstName}">
-                        <layoutData>
-                            <l:GridData span="xl6 L6M12 S12" />
-                        </layoutData>
-                    </Text>
-                    <Label text="Nachname">
-                        <layoutData>
-                            <l:GridData span="xl6 L6 M12 S12" />
-                        </layoutData>
-                    </Label>
-                    <Text text="{/lastName}">
-                        <layoutData>
-                            <l:GridData span="xl6 L6M12 S12" />
-                        </layoutData>
-                    </Text>
-                </l:content>
-            </l:Grid>
+            <HBox id="personBox" justifyContent="Center" width="100%">
+                <l:Grid id="inGrid" width="100%">
+                    <l:content>
+                        <Image id="pImage" src="{/avatar}" class="indImg" />
+
+                        <Label text="Vorname">
+                            <layoutData>
+                                <l:GridData span="xl6 L6 M12 S12" />
+                            </layoutData>
+                        </Label>
+                        <Text text="{/firstName}">
+                            <layoutData>
+                                <l:GridData span="xl6 L6 M12 S12" />
+                            </layoutData>
+                        </Text>
+                        <Label text="Nachname">
+                            <layoutData>
+                                <l:GridData linebreak="true" span="xl6 L6 M12 S12" />
+                            </layoutData>
+                        </Label>
+                        <Text text="{/lastName}">
+                            <layoutData>
+                                <l:GridData span="xl6 L6 M12 S12" />
+                            </layoutData>
+                        </Text>
+                    </l:content>
+                </l:Grid>
+            </HBox>
         </content>
     </Page>
 </mvc:View>
