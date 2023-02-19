@@ -89,7 +89,7 @@
         "type": "sap.ui.model.json.JSONModel",
         "settings": {},
         "preload": true,
-        "uri": "data/person.json"
+        "uri": "data/persons.json"
       },
       "companyModel": {
         "type": "sap.ui.model.json.JSONModel",
