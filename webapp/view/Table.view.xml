@@ -1,0 +1,101 @@
+<mvc:View controllerName="mainapp.controller.Main" xmlns:c="sap.ui.core" xmlns:mvc="sap.ui.core.mvc" displayBlock="true" xmlns="sap.m" xmlns:l="sap.ui.layout" xmlns:core="sap.ui.core" xmlns:tnt="sap.tnt">
+    <Page id="table" title="{i18n>table}">
+        <content>
+            <Table id="idPersonsTable" items="{
+                path: '/persons',
+                sorter: {
+                    path: 'lastName'
+                } }">
+                <columns>
+                    <Column id="__column0">
+                        <header>
+                            <Label text="ID" id="__label0" />
+                        </header>
+                    </Column>
+                    <Column id="__column1">
+                        <header>
+                            <Label text="Full Name" id="__label1" />
+                        </header>
+                    </Column>
+                    <Column id="__column2">
+                        <header>
+                            <Label text="Profil Info" id="__label2" />
+                        </header>
+                    </Column>
+                    <Column id="__column3">
+                        <header>
+                            <Label text="Adresse" id="__label3" />
+                        </header>
+                    </Column>
+                    <Column id="__column4">
+                        <header>
+                            <Label text="Timezone" id="__label4" />
+                        </header>
+                    </Column>
+                    <Column id="__column5">
+                        <header>
+                            <Label text="Zip Code" id="__label5" />
+                        </header>
+                    </Column>
+                </columns>
+                <items>
+                    <ColumnListItem id="__item0">
+                        <cells>
+                            <Text text="{uuid}" id="__text3" />
+                            <Text text="{persons>fullName}" id="__text4" />
+                            <Text text="{persons>profileInfo}" id="__text5" />
+                            <Text text="{persons>address/streetAddress}" id="__text6" />
+                            <Text text="{persons>timezone}" id="__text7" />
+                            <Text text="{persons>zipCode}" id="__text8" />
+                        </cells>
+                    </ColumnListItem>
+                </items>
+            </Table>
+            <!-- 
+            <t:Table id="table0" rows="{path: '/oscar', sorter: [{path: 'oscFemaleLead', descending: false}]}">
+                <t:columns>
+                    <t:Column>
+                        <t:label>
+                            <Label text="Jahr" />
+                        </t:label>
+                        <t:template>
+                            <Text text="{oscYear}" />
+                        </t:template>
+                    </t:Column>
+                    <t:Column>
+                        <t:label>
+                            <Label text="Datum der Verleihung" />
+                        </t:label>
+                        <t:template>
+                            <Text text="{oscDate}" />
+                        </t:template>
+                    </t:Column>
+                    <t:Column>
+                        <t:label>
+                            <Label text="Bester Regisseur" />
+                        </t:label>
+                        <t:template>
+                            <Text text="{oscBestDir}" />
+                        </t:template>
+                    </t:Column>
+                    <t:Column>
+                        <t:label>
+                            <Label text="Bester Darsteller" />
+                        </t:label>
+                        <t:template>
+                            <Text text="{oscMaleLead}" />
+                        </t:template>
+                    </t:Column>
+                    <t:Column>
+                        <t:label>
+                            <Label text="Beste Darstellerin" />
+                        </t:label>
+                        <t:template>
+                            <Text text="{oscFemaleLead}" />
+                        </t:template>
+                    </t:Column>
+                </t:columns>
+            </t:Table>-->
+        </content>
+    </Page>
+</mvc:View>

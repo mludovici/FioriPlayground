@@ -1,0 +1,37 @@
+{
+	"id": 133,
+	"uuid": "0be3390c-9833-448d-8f28-6adb0fa84ccb",
+	"firstName": "Daniela",
+	"lastName": "Biedermann",
+	"fullName": "Fynn Loska",
+	"gender": "weiblich",
+	"username": "Ahmed_Steffny96",
+	"email": "Chiara.Sonnabend63@yahoo.com",
+	"avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1158.jpg",
+	"password": "bIgtzsen1EVpEzV",
+	"birthdate": "5.9.1956",
+	"registeredAt": "2022-11-08T03:42:39.756Z",
+	"phone": "49-6990-9219",
+	"jobTitle": "Direct Solutions Agent",
+	"jobType": "Designer",
+	"profileInfo": "Hi, my name is Hanna Kumbernuss.\n    I was born in Sat Oct 27 1984 12:53:42 GMT+0100 (Mitteleuropäische Normalzeit) and I am currently working as a Investor Group Representative at Splinter, Fassbender und Derr.\n    Check out my site on energisch-sessel.name and contact me any time at +53 898 931 7596. Consequuntur vitae cumque consequatur ad natus eveniet modi omnis. Ipsum suscipit porro tempora autem minima dicta corrupti recusandae placeat. Nobis aperiam quibusdam. Quasi voluptas pariatur. Quasi alias nesciunt dolore corrupti.",
+	"address": {
+		"country": "Liberia",
+		"county": "Berkshire",
+		"city": "Jeremiasland",
+		"streetAddress": "Eintrachtstr. 64b 0 OG",
+		"latitude": -8.6196,
+		"longitude": 171.4873,
+		"coordinates": [
+			-23.9818,
+			89.413
+		],
+		"longLat": [
+			4.22585,
+			43.38303
+		],
+		"timezone": "Europe/Istanbul",
+		"zipCode": "59325"
+	},
+	"maybe": "Yeah I'm here!"
+}

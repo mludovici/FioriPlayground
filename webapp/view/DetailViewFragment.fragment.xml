@@ -1,0 +1,9 @@
+<c:FragmentDefinition xmlns:c="sap.ui.core" xmlns="sap.m" xmlns:l="sap.ui.layout">
+    <l:VerticalLayout>
+        <l:content>
+            <Text text="{/output}" />
+            <Button text="Button aus Fragment" press="onPress" />
+            <Input value="Wert aus Fragment" width="300px" />
+        </l:content>
+    </l:VerticalLayout>
+</c:FragmentDefinition>

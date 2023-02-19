@@ -1,4 +1,4 @@
-<mvc:View controllerName="mainapp.controller.About" xmlns:c="sap.ui.core" xmlns:mvc="sap.ui.core.mvc" displayBlock="true" xmlns="sap.m" xmlns:l="sap.ui.layout" xmlns:core="sap.ui.core" xmlns:tnt="sap.tnt">
+<mvc:View controllerName="mainapp.controller.About" xmlns:c="sap.ui.core" xmlns:mvc="sap.ui.core.mvc" displayBlock="true" xmlns="sap.m" xmlns:l="sap.ui.layout" xmlns:core="sap.ui.core" xmlns:tnt="sap.tnt" xmlns:html="http://www.w3.org/1999/xhtml">
     <Page id="about" title="{i18n>about}" showNavButton="true" navButtonPress="onNavBack">
         <content>
             <Text id="abtext" text="About page" />
@@ -21,41 +21,42 @@
                             <l:ResponsiveFlowLayoutData id="lri2" minWidth="400" weight="1" />
                         </l:layoutData>
                         <l:content>
-                            <Image src="https://picsum.photos/400" width="400px" height="400px" id="image0" />
+                            <Image src="https://picsum.photos/200" width="400px" height="400px" id="image0" />
                         </l:content>
                     </l:VerticalLayout>
                 </l:content>
             </l:ResponsiveFlowLayout>
 
             <Label id="glLabel" text="Grid Layout props span indent linebreak hspacing vspacing" />
-            <HBox id="personBox" justifyContent="Center" width="100%">
-                <l:Grid id="inGrid" width="100%">
-                    <l:content>
-                        <Image id="pImage" src="{/avatar}" class="indImg" />
+            <!-- <HBox id="personBox" justifyContent="Center" width="100%"> -->
+            <l:Grid id="inGrid" width="100%">
+                <l:content>
+                    <Image id="pImage" src="{/avatar}" class="indImg" />
 
-                        <Label text="Vorname">
-                            <layoutData>
-                                <l:GridData span="xl6 L6 M12 S12" />
-                            </layoutData>
-                        </Label>
-                        <Text text="{/firstName}">
-                            <layoutData>
-                                <l:GridData span="xl6 L6 M12 S12" />
-                            </layoutData>
-                        </Text>
-                        <Label text="Nachname">
-                            <layoutData>
-                                <l:GridData linebreak="true" span="xl6 L6 M12 S12" />
-                            </layoutData>
-                        </Label>
-                        <Text text="{/lastName}">
-                            <layoutData>
-                                <l:GridData span="xl6 L6 M12 S12" />
-                            </layoutData>
-                        </Text>
-                    </l:content>
-                </l:Grid>
-            </HBox>
+                    <Label id="l1" text="Vorname">
+                        <layoutData>
+                            <l:GridData id="gd1" span="xl6 L6 M12 S12" />
+                        </layoutData>
+                    </Label>
+                    <Text id="t1" text="{/firstName}">
+                        <layoutData>
+                            <l:GridData id="gd2" span="xl6 L6 M12 S12" />
+                        </layoutData>
+                    </Text>
+                    <Label id="l2" text="Nachname">
+                        <layoutData>
+                            <l:GridData id="gd3" linebreak="true" span="xl6 L6 M12 S12" />
+                        </layoutData>
+                    </Label>
+                    <Text id="t2" text="{/lastName}">
+                        <layoutData>
+                            <l:GridData id="gd4" span="xl6 L6 M12 S12" />
+                        </layoutData>
+                    </Text>
+                </l:content>
+            </l:Grid>
+
+           
         </content>
     </Page>
 </mvc:View>

@@ -78,6 +78,36 @@
           "autoExpandSelect": true,
           "earlyRequests": true
         }
+      },
+      "personModel": {
+        "type": "sap.ui.model.json.JSONModel",
+        "settings": {},
+        "preload": true,
+        "uri": "model/person.json"
+      },
+      "personsModel": {
+        "type": "sap.ui.model.json.JSONModel",
+        "settings": {},
+        "preload": true,
+        "uri": "data/person.json"
+      },
+      "companyModel": {
+        "type": "sap.ui.model.json.JSONModel",
+        "settings": {},
+        "preload": true,
+        "uri": "data/company.json"
+      },
+      "paymentModel": {
+        "type": "sap.ui.model.json.JSONModel",
+        "settings": {},
+        "preload": true,
+        "uri": "data/payment.json"
+      },
+      "productModel": {
+        "type": "sap.ui.model.json.JSONModel",
+        "settings": {},
+        "preload": true,
+        "uri": "data/product.json"
       }
     },
     "resources": {
