@@ -9,7 +9,7 @@ sap.ui.define([
 
 		return Controller.extend("mainapp.controller.Table", {
 			onInit: function () {
-				this._oPersonsModel = this.getOwnerComponent().getModel("personsModel");
+				this._oPersonsModel = this.getView().getModel("personsModel");
 				this.getView().setModel(this._oPersonsModel);
 			},
 

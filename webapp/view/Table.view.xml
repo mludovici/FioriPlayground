@@ -41,12 +41,12 @@
                 <items>
                     <ColumnListItem id="__item0">
                         <cells>
-                            <Text text="{uuid}" id="__text3" />
+                            <!-- <Text text="{uuid}" id="__text3" />
                             <Text text="{persons>fullName}" id="__text4" />
                             <Text text="{persons>profileInfo}" id="__text5" />
                             <Text text="{persons>address/streetAddress}" id="__text6" />
                             <Text text="{persons>timezone}" id="__text7" />
-                            <Text text="{persons>zipCode}" id="__text8" />
+                            <Text text="{persons>zipCode}" id="__text8" /> -->
                         </cells>
                     </ColumnListItem>
                 </items>

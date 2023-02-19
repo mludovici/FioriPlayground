@@ -16,13 +16,13 @@
       "toolsId": "02f4c104-49bb-454c-868f-a463f71e147f"
     },
     "dataSources": {
-      "mainService": {
-        "uri": "/TripPinRESTierService/(S(y5xn0rlw3r3ibvinawox5asm))/",
+      "OData.svc": {
+        "uri": "/Northwind/V2/(S(bnoepx4l0plkndiwfcoc4cxd))/OData/OData.svc/",
         "type": "OData",
         "settings": {
           "annotations": [],
           "localUri": "localService/metadata.xml",
-          "odataVersion": "4.0"
+          "odataVersion": "2.0"
         }
       }
     }
@@ -89,7 +89,7 @@
         "type": "sap.ui.model.json.JSONModel",
         "settings": {},
         "preload": true,
-        "uri": "data/persons.json"
+        "uri": "model/persons.json"
       },
       "companyModel": {
         "type": "sap.ui.model.json.JSONModel",
