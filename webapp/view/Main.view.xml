@@ -2,7 +2,7 @@
     <Page id="page" title="{i18n>title}">
         <content>
             <c:Fragment id="headerFragment" fragmentName="mainapp.view.Header" type="XML" />
-            <mvc:XMLView id="tableView" viewName="mainapp.view.Table" />
+            <!-- <mvc:XMLView id="tableView" viewName="mainapp.view.Table" /> -->
         </content>
     </Page>
 </mvc:View>

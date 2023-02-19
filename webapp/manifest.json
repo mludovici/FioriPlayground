@@ -147,6 +147,11 @@
           "name": "RouteProfile",
           "pattern": "profile",
           "target": "TargetProfile"
+        },
+        {
+          "name": "RouteTable",
+          "pattern": "table",
+          "target": "TargetTable"
         }
       ],
       "targets": {
@@ -167,6 +172,11 @@
           "viewName": "Profile",
           "viewId": "",
           "viewLevel": 2
+        },
+        "TargetTable": {
+          "viewName": "Table",
+          "viewId": "",
+          "viewLevel": 1
         },
         "notFoundTarget": {
           "viewName": "NotFound",

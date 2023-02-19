@@ -20,6 +20,9 @@ sap.ui.define([
             },
             navigateToProfile: function () {
                 oRouter.navTo("RouteProfile");
+            },
+            navToTable: function () {
+                oRouter.navTo("RouteTable");
             }
 
         });
